@@ -71,6 +71,25 @@ Ne pas utiliser l'ancienne estimation de 180 bpm.
 - Ne pas assimiler cette estimation à une mesure
   de laboratoire.
 
+### Respiration et perception de l'effort
+
+- Sur les footings faciles habituels, la respiration par le nez,
+  bouche fermée, est spontanée, sans contrôle conscient particulier.
+- Ce mode de respiration peut rester naturel jusqu'à un effort
+  ressenti moyennement intense (limite estimée vers 5/10) ;
+  dans les fortes côtes ou en compétition, la bouche peut s'ouvrir.
+- Lors d'un test de conversation sur la sortie du 8 octobre,
+  plusieurs phrases normales étaient possibles, en reprenant
+  son souffle entre les phrases.
+- Le maintien de la respiration nasale **ne suffit pas à confirmer
+  une endurance fondamentale physiologique** : tenir compte
+  également de la FC, du test de conversation, de la fatigue
+  et du relief.
+- Lors d'une sortie censée être facile, privilégier le respect
+  de l'intensité et une bonne récupération plutôt que le maintien
+  d'une allure rapide. Le 8 octobre illustre un départ trop
+  soutenu en descente et une fatigue supérieure à l'objectif.
+
 ## Historique et références
 
 ### Tests de demi-Cooper
