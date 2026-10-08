@@ -167,10 +167,13 @@ Aucun objectif chronométrique définitif fixé.
 
 ### Progression à court terme
 
-- Reprendre les sorties longues après la course
-  du 3 octobre et la semaine de récupération.
-- Première reprise envisagée : 50 minutes au total.
-- Augmenter progressivement vers 60–70 minutes.
+- Sortie longue de reprise effectuée le 8 octobre 2026 :
+  47'21" (7,28 km), pour un objectif de 50 minutes ;
+  intensité jugée trop élevée pour l'EF recherchée.
+- Priorité : retrouver une intensité facile reproductible
+  avant d'augmenter la durée.
+- Augmenter progressivement vers 60–70 minutes,
+  en fonction de la récupération.
 - Atteindre environ 10 km par sortie longue,
   selon la récupération.
 - Conserver trois séances hebdomadaires.
