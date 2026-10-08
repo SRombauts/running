@@ -1,32 +1,79 @@
-# Organisation de mes données de running.
+# Running — Instructions aux assistants IA
 
-- Montre au poignet Google Fitbit Inspire 3 (avec capteur de fréquence cardiaque réputée assez bon)
-- FC Repos mesurée à 65 bpm en moyenne début octobre
-- FC Max mesurée au dessus de 190 bpm, hypothèse retenue de 195 bpm ;
-    - pic mesurée à 200 en sprint finale de course 5 km, peu fiable!
+## Objectif
 
-- Test de demi-Cooper mi Septembre : ~1200 m en 6 min = 12km/h ;
-    - parti sur une allure trop faible, j'ai terminé avec de la marge, sous estimant ma VMA
+Aider à analyser mes entraînements de course à pied,
+évaluer ma progression et préparer mes objectifs sportifs.
 
-- RP 5 km 26:00 avec ~41m de D+ le à la Foulée Suresnoise le samedi 3 octobre à 17h30 ;
-    - mon tout premier chrono, pas de stratégie de course correcte, faute de données je visais ~29 minutes donc je suis parti un peu trop tôt
-    - VMA probablement +13km/h
+Privilégier des conseils individualisés, fondés sur mes
+données réelles plutôt que sur des plans génériques.
 
-- j'ai désormais accès au stade d'athletisme de Nanterre, je dois encore m'y rendre pour prendre mes repères !
+## Sources de données
 
-## Plan d'entrainement
+- `profile.md` : profil, capacités, habitudes et objectifs.
+- `data/runs/` : sorties d'entraînement réalisées.
+- `data/races/` : compétitions et résultats officiels.
+- `data/tests/` : tests de terrain.
+- `plans/` : plans d'entraînement (lorsqu'ils existent).
 
-3 sorties par semaine
+Les dossiers de données seront ajoutés progressivement.
 
-Actuellement :
-- deux sorties EF ~5 km / ~35 min en incluant 10 min de footing de fin d'échauffement
-- une sortie longue d'environ ~50 minutes, à augmenter de +5 minutes sur les prochains semaines pour atteindre ~10 km à l'entrainement en novembre
+Lire le profil et les activités récentes avant de proposer
+un programme ou d'interpréter une nouvelle séance.
 
-Plan à cour terme :
-- remplacer une d'EF par une séance de fractionnés en alternant fractionnés court et long chaque semaine
+## Fiabilité des données
 
+- Distinguer mesures, déclarations, estimations et hypothèses.
+- Ne jamais inventer une mesure absente.
+- Distinguer séances réalisées et séances prévues.
+- Conserver les observations historiques datées.
+- Signaler les contradictions entre sources.
+- Privilégier les temps officiels pour les compétitions,
+  tout en conservant les mesures GPS séparément.
+- Tenir compte des limites du capteur cardiaque optique.
+- Ne pas présenter la FCmax, la VMA, la VO2max ou les
+  zones cardiaques estimées comme des mesures certaines.
 
-## Tests à réaliser
+## Analyse des entraînements
 
-- refaire un test de demi-Cooper sur piste
-- refaire un test de FC Max dans la montée du Mont Valérien à la fin d'une sortie en EF, après quelques accélérations
+- Comparer les séances avec leur contexte : fatigue,
+  récupération, dénivelé, météo, compétition récente.
+- Tenir compte du volume hebdomadaire et des activités
+  quotidiennes, notamment la marche.
+- Distinguer charge cardiovasculaire et fatigue musculaire.
+- Évaluer les progrès sur plusieurs séances, pas sur
+  une seule mesure.
+- Utiliser l'allure, la FC et le ressenti conjointement.
+- Ne pas imposer une cible cardiaque théorique si les
+  sensations et les données réelles la contredisent.
+
+## Recommandations d'entraînement
+
+- Privilégier la régularité et la progression durable.
+- Conserver une majorité d'entraînement facile.
+- Éviter d'augmenter fortement volume et intensité
+  simultanément.
+- Adapter les séances à la récupération effective.
+- En cas de douleur persistante, privilégier une réduction
+  de charge et ne pas poser de diagnostic.
+- Distinguer une proposition de séance d'une prescription.
+- Expliciter les incertitudes et les compromis.
+
+Les durées de séance incluent l'échauffement en courant,
+sauf indication contraire.
+
+## Organisation des données
+
+- Un fichier Markdown par activité réellement effectuée.
+- Noms de fichiers commençant par la date ISO (YYYY-MM-DD).
+- Métadonnées structurées en YAML front matter.
+- Unités cohérentes : km, secondes, bpm, mètres.
+- Séparer les mesures du ressenti et de l'analyse.
+- Ne pas modifier rétroactivement les données brutes
+  pour les faire correspondre à une interprétation.
+
+## Périmètre technique
+
+Dépôt de données Markdown maintenu dans Git.
+Pas de CI, de site web ou de GitHub Pages souhaités
+sans demande explicite.
