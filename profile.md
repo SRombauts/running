@@ -166,7 +166,12 @@ avec une seule sortie de 15 minutes, puis reprise.
   les compétitions ou sorties exigeantes.
 - Gêne ponctuelle au genou droit signalée lors
   de la sortie longue du 25 septembre.
-- Aucune blessure chronique documentée.
+- Antécédents de gêne antérieure autour de la rotule droite, notamment
+  en descente de randonnée ; légère récidive après la sortie du 8 octobre
+  (0–0,5/10), sans foulée de running altérée.
+- Hypothèse fémoro-patellaire **non confirmée** : voir la
+  [note de suivi du 9 octobre](data/health/2026-10-09-right-knee.md).
+- Aucune blessure chronique médicalement diagnostiquée documentée.
 
 ## Objectifs
 
