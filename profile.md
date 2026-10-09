@@ -1,6 +1,6 @@
 # Profil running
 
-Dernière mise à jour : 2026-10-08
+Dernière mise à jour : 2026-10-09
 
 ## Équipement
 
@@ -8,6 +8,18 @@ Dernière mise à jour : 2026-10-08
 - Mesure optique de la fréquence cardiaque au poignet.
 - Les pics de FC, notamment lors des accélérations,
   doivent être interprétés avec prudence.
+
+### Chaussures de course
+
+- Modèle actuel : Kiprun Kipcore « Black and White ».
+- Pointure : 42 (pointure habituelle pour toutes les chaussures).
+- Achat : juillet 2026.
+- Poids mesuré personnellement : 281 g pour une chaussure en pointure 42
+  (début octobre 2026 ; ne pas confondre avec un poids fabricant).
+- État au 9 octobre 2026 : encore en très bon état.
+- Pas encore essayé les pointures 42,5 ou 43 pour courir.
+- Paire précédente : utilisée environ six mois, puis écartée lorsque
+  certaines zones de la semelle extérieure étaient devenues assez lisses.
 
 ## Caractéristiques physiques
 
