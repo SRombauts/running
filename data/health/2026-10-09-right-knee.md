@@ -11,11 +11,11 @@ diagnosis_confirmed: false
 ## Observations rapportées
 
 - **Localisation :** gêne diffuse à l'avant du genou droit, autour de la rotule.
-- **Intensité :** ce n'est **pas une douleur franche** ; évaluée à **0/10**, éventuellement **0,5/10 à l'échauffement**.
+- **Intensité actuelle (9 octobre) :** **0/10**, éventuellement **0,5/10 à l'échauffement** ; actuellement redevenue une gêne minime. **Lors de certains épisodes antérieurs, il s'agissait bien de douleurs autour de la rotule**, et non d'une simple sensation indolore permanente.
 - **Nature :** sensation discrète de raideur ou de gêne mécanique lors de certains mouvements.
-- **Échauffement :** la gêne a tendance à disparaître lorsque le corps est échauffé.
+- **Échauffement :** certains mouvements reproduisent les symptômes (gêne ou douleur selon l'épisode), puis ceux-ci tendent à disparaître à chaud ; les gestes précis restent à documenter.
 - **Pendant la course :** **aucune modification de la foulée pour compenser une gêne**. Ne pas assimiler les adaptations de marche évoquées ci-dessous à une altération de la foulée de running.
-- **Après la sortie longue du 8 octobre :** gêne perceptible dans certains déplacements du quotidien, notamment en descente ou quand la marche est moins souple.
+- **Après les deux sorties les plus longues récentes :** symptômes reproduits notamment le lendemain matin lors de certains mouvements en charge, selon le coureur. Après la sortie du 8 octobre, gêne perceptible dans certains déplacements du quotidien, notamment en descente ou quand la marche est moins souple.
 - **Marche active :** le coureur soupçonne une tendance à **allonger excessivement les pas** lorsqu'il veut marcher vite (pied projeté loin devant) ; gêne plus facile à ressentir s'il n'y prête pas attention ou sur terrain irrégulier. **Lien causal non démontré.**
 - **Évolution au 9 octobre :** gêne **en diminution un peu plus de 24 h après** la sortie longue. Une longue marche effectuée ce jour-là a pu la rendre momentanément moins perceptible, par effet d'échauffement ; impossible de distinguer cette explication d'une récupération réelle.
 - **Escaliers :** une gêne plus marquée à la descente avait été envisagée, mais le souvenir est incertain et peut relever d'une anticipation ; **pas de différence nette actuellement** entre montée et descente.
@@ -36,11 +36,13 @@ diagnosis_confirmed: false
 
 ## Hypothèse clinique à vérifier — pas de diagnostic
 
-Le tableau est **compatible avec une sensibilité ou douleur fémoro-patellaire** (région rotule–fémur), notamment du fait de la localisation antérieure et des antécédents en descente. Une variation de la tolérance aux contraintes après l'entraînement pourrait contribuer à la gêne.
+La **douleur fémoro-patellaire** (région rotule–fémur) est une **hypothèse clinique prioritaire à examiner**, sans confirmation. Les antécédents de douleur autour de la rotule, leur reproduction dans certains mouvements à l'échauffement ou le lendemain des sorties longues, et les douleurs anciennes en descente sont compatibles avec cette hypothèse. Une variation de la tolérance aux contraintes après l'entraînement pourrait contribuer à la gêne.
+
+Selon les [recommandations JOSPT 2019](https://doi.org/10.2519/jospt.2019.0302), la première condition (douleur péri- ou rétropatellaire dans l'histoire rapportée) est compatible ; la deuxième (reproduction lors d'activités chargeant l'articulation en flexion) est **compatible mais les mouvements précis doivent être caractérisés** ; la troisième (**exclusion d'autres causes**) **n'a pas été évaluée**. Il ne s'agit donc toujours **pas d'un diagnostic confirmé**.
 
 **Incertitudes :**
 - Aucun examen clinique n'a été effectué ; le syndrome fémoro-patellaire n'est **pas diagnostiqué**.
-- L'intensité extrêmement faible (**0 à 0,5/10 actuellement**) et l'absence de douleur caractérisée empêchent d'en faire une conclusion ferme.
+- L'intensité extrêmement faible (**0 à 0,5/10 actuellement**) **ne contredit pas les douleurs décrites précédemment** et ne permet pas à elle seule d'écarter l'hypothèse ; il reste nécessaire de préciser les mouvements qui reproduisent les symptômes et d'évaluer les diagnostics différentiels.
 - Une irritation tendineuse ou d'autres causes ne peuvent être confirmées ni exclues sur la seule description.
 - La longueur des pas en marche rapide est une **hypothèse personnelle de facteur aggravant**, non une anomalie biomécanique établie.
 - Aucune conclusion sur l'état du cartilage ou sur une lésion anatomique.
