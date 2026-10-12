@@ -77,3 +77,11 @@ Après 12–15 min de footing très facile :
 ## Provenance
 
 Intentions du coureur et description du test Campus Coach, suivies des captures Strava et de son compte rendu de la séance réelle du lundi 12 octobre 2026. Le test maximal demeure prévu, non réalisé.
+
+## Mise à jour suite à la séance réalisée
+
+Confirmation : quatre fractions en couloir 1, échauffement dans les couloirs extérieurs ; Strava affiche 420 m par tour. Essoufflement important après chaque répétition, jambes lourdes pendant plusieurs heures. Pas de gêne au genou une fois lancé, mais parfois une sensation très légère hors effort.
+
+Repère d'allure souhaité : 30 secondes par 100 m (2 min par 400 m), puis accélération progressive selon la forme. Deux tours en 4 min imposeraient 3 min 10 s pour les 700 m restants afin de terminer en 7 min 10 s.
+
+Test : ne pas le réaliser mardi 13 octobre ; jeudi 15 uniquement si récupération complète. Reporter si lourdeur musculaire, courbatures ou gêne au genou. Voir la fiche de séance du 12 octobre pour les observations détaillées.
