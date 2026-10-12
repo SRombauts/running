@@ -214,17 +214,17 @@ avec une seule sortie de 15 minutes, puis reprise.
 - Une montée du Mont Valérien avait été envisagée
   pour un test de FC maximale, sans protocole confirmé.
 
-Accès récent à la piste de Nanterre avec badge personnel ;
-reconnaissance prévue le lundi 12 octobre à midi (réalisation à confirmer).
+Accès à la piste de Nanterre avec badge personnel ;
+première reconnaissance **effectuée au stade Pablo Picasso le lundi 12 octobre**, avec quatre répétitions rapides (voir [fiche de séance](data/runs/2026/2026-10-12-track-intervals.md)).
 
-### Campus Coach et test d'entrée (intentions au 12 octobre 2026)
+### Campus Coach et test d'entrée (situation au 12 octobre 2026)
 
 - Inscription à **Campus Coach** pour accompagner et structurer les entraînements.
 - Première séance demandée : **test maximal sur piste de 1 500 m**, à allure progressive, avec échauffement préalable.
-- **Lundi 12 octobre midi :** découverte de la piste de Nanterre prévue, sans test maximal ; éventuellement quelques répétitions de 400 m à allure contrôlée.
-- **Test envisagé mardi 13 ou jeudi 15 octobre, à midi**, selon météo et récupération ; mercredi midi indisponible pour raisons familiales.
-- Après des répétitions plus longues le lundi, privilégier jeudi pour disposer d'une meilleure récupération.
+- **Dimanche 11 octobre :** footing d'EF de plus de 35 minutes, durée exacte et autres métriques non documentées dans cette note.
+- **Lundi 12 octobre midi :** première séance sur la piste réalisée : quatre segments Strava d'environ 0,42 km en 1'27\", 1'33\", 1'34\" et 1'43\" ; allures nettement trop rapides par rapport à l'objectif. FC montant autour de 180 bpm peu après chaque fraction selon le coureur (sangle abdominale), à distinguer des FC moyennes par segment.
+- **Test de 1 500 m restant à effectuer** : jeudi 15 octobre midi préférable après cette séance, sous réserve de récupération et de l'état du genou ; mardi 13 devenu peu judicieux, mercredi midi indisponible.
 - À partir du 5 km en **26'00" du 3 octobre**, VMA grossièrement estimée autour de **13,5 km/h (13–14)**, **non mesurée** ; temps indicatif 1 500 m autour de **7'10" (7'00"–7'25")**, à vérifier par le test.
 - Planning, repères par 400 m et précautions détaillés dans le [plan de découverte de piste et de test 1 500 m](plans/2026-10-12-decouverte-piste-test-1500m.md).
 
-Ne pas enregistrer la découverte de piste ou le test comme effectués avant retour du coureur.
+La découverte de piste est enregistrée comme effectuée, **mais pas le test 1 500 m**. La VMA et la FCmax restent inconnues ; ne pas inférer leur valeur des segments rapides.
