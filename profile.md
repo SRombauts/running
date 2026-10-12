@@ -175,12 +175,19 @@ avec une seule sortie de 15 minutes, puis reprise.
 
 ## Objectifs
 
-### Principal
+### Courses prévues
 
-Terminer un premier 10 km en compétition
-le 7 février 2027.
+- **7 février 2027 — 10 km des Champs-Élysées (Paris)**
+  - Inscription confirmée, catégorie non licencié.
+  - Premier 10 km en compétition.
+  - Objectif chronométrique de travail : **moins de 60 minutes**, à réévaluer selon la progression hivernale.
+  - Objectif complémentaire : apprendre à gérer l'allure et l'effort sur 10 km.
 
-Aucun objectif chronométrique définitif fixé.
+- **7 mars 2027 — 10 km des Lions (Rueil-Malmaison)**
+  - Inscription confirmée.
+  - Deuxième 10 km prévu, quatre semaines après les Champs-Élysées.
+  - Objectif principal : gagner en expérience de course et mieux gérer l'allure à partir des enseignements du premier 10 km.
+  - Objectif chronométrique à définir après la course du 7 février.
 
 ### Progression à court terme
 
