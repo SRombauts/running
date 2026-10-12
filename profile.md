@@ -1,6 +1,6 @@
 # Profil running
 
-Dernière mise à jour : 2026-10-09
+Dernière mise à jour : 2026-10-12
 
 ## Équipement
 
@@ -207,5 +207,17 @@ Aucun objectif chronométrique définitif fixé.
 - Une montée du Mont Valérien avait été envisagée
   pour un test de FC maximale, sans protocole confirmé.
 
-Accès récent à la piste de Nanterre ;
-première utilisation encore à réaliser.
+Accès récent à la piste de Nanterre avec badge personnel ;
+reconnaissance prévue le lundi 12 octobre à midi (réalisation à confirmer).
+
+### Campus Coach et test d'entrée (intentions au 12 octobre 2026)
+
+- Inscription à **Campus Coach** pour accompagner et structurer les entraînements.
+- Première séance demandée : **test maximal sur piste de 1 500 m**, à allure progressive, avec échauffement préalable.
+- **Lundi 12 octobre midi :** découverte de la piste de Nanterre prévue, sans test maximal ; éventuellement quelques répétitions de 400 m à allure contrôlée.
+- **Test envisagé mardi 13 ou jeudi 15 octobre, à midi**, selon météo et récupération ; mercredi midi indisponible pour raisons familiales.
+- Après des répétitions plus longues le lundi, privilégier jeudi pour disposer d'une meilleure récupération.
+- À partir du 5 km en **26'00" du 3 octobre**, VMA grossièrement estimée autour de **13,5 km/h (13–14)**, **non mesurée** ; temps indicatif 1 500 m autour de **7'10" (7'00"–7'25")**, à vérifier par le test.
+- Planning, repères par 400 m et précautions détaillés dans le [plan de découverte de piste et de test 1 500 m](plans/2026-10-12-decouverte-piste-test-1500m.md).
+
+Ne pas enregistrer la découverte de piste ou le test comme effectués avant retour du coureur.
