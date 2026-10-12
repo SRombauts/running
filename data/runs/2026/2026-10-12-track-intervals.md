@@ -56,3 +56,12 @@ status: completed
 ## Provenance
 
 Captures des segments Strava et vue globale de sortie communiquées le 12 octobre 2026 ; précisions subjectives du coureur le même jour. **Ne pas confondre estimation, mesure GPS arrondie, chrono de segment et distance mesurée sur piste.**
+
+## Compléments rapportés le 12 octobre (après analyse des captures)
+
+- **Couloir confirmé : 1**, à la corde pour les quatre répétitions. Échauffement seulement dans les couloirs extérieurs. Les 420 m affichés par Strava surestiment vraisemblablement la distance d'un tour, sous réserve du positionnement exact du départ et de la fin des segments.
+- **Ressenti : très essoufflé à la fin de chaque 400 m** ; jambes lourdes en fin de séance et encore plusieurs heures après. Courbatures envisagées pour le lendemain, non encore observées.
+- **Genou droit :** aucune gêne pendant la course une fois lancé ; parfois une sensation discrète, à la limite de la perception, hors effort. Réaction le lendemain non encore connue.
+- **Pilotage du test :** volonté d'utiliser un repère temporel de **30 secondes par 100 m** (60 s par 200 m, 2 minutes par 400 m) pour débuter, puis d'accélérer seulement selon les sensations. Ces distances intermédiaires doivent être vérifiées sur piste.
+- Avec deux tours à 2'00", obtenir 7'10" sur 1 500 m demanderait ensuite 3'10" sur les 700 derniers mètres. L'accélération progressive après le premier tour est plus compatible avec cette projection, mais le test ne doit pas être forcé pour respecter une cible.
+- **Récupération :** après les quatre fractions très soutenues et le footing EF de la veille, ne pas effectuer de test maximal mardi. Jeudi 15 reste une simple option si la récupération musculaire est complète et le genou confortable ; reporter sinon.
