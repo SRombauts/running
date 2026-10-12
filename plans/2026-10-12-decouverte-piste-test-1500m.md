@@ -1,7 +1,7 @@
 ---
 date: 2026-10-12
 type: training-plan
-status: planned
+status: test_pending
 program: Campus Coach
 location: "Piste d'athlétisme de Nanterre"
 test_distance_km: 1.5
@@ -19,10 +19,10 @@ source: self_report
 - Inscription à **Campus Coach** pour structurer l'entraînement et bénéficier d'un accompagnement.
 - Premier exercice proposé par Campus Coach : **test de niveau sur 1 500 m**, à courir au meilleur temps possible après échauffement, avec départ prudent, progression et fin rapide. Objectif du coach : deuxième moitié légèrement plus rapide.
 - Accès désormais possible à la piste d'athlétisme de Nanterre avec **badge personnel**.
-- **Lundi 12 octobre, midi : première prise de contact / reconnaissance de la piste prévue, non encore confirmée comme réalisée**. Repérer le sens antihoraire, le couloir 1, la ligne d'arrivée, le départ du 1 500 m et les repères de 400 m. Le test maximal ne sera pas effectué aujourd'hui.
+- **Lundi 12 octobre, midi : reconnaissance effectuée au stade Pablo Picasso**, avec quatre répétitions rapides (voir [fiche de la séance réelle](../data/runs/2026/2026-10-12-track-intervals.md)). Le test maximal n'a pas été effectué aujourd'hui. Le repérage précis des lignes de départ/arrivée n'est pas documenté.
 - Possibilité de tester des allures sur quelques fractions, à condition de conserver un effort contrôlé.
 
-## Séance de reconnaissance du lundi (options, non réalisées à ce stade)
+## Options discutées avant la séance du lundi (conservées pour historique, non suivies telles quelles)
 
 Après 12–15 min de footing très facile :
 
@@ -41,13 +41,13 @@ Après 12–15 min de footing très facile :
 - Retour au calme facile.
 - Choisir l'option légère en cas de fatigue ou de sensibilité du genou ; interrompre les accélérations si douleur.
 
-**À renseigner après la séance :** fractions réellement effectuées, temps, ressenti, gêne éventuelle pendant l'effort et réaction du genou le soir / lendemain. Ne pas confondre les allures planifiées avec des résultats.
+**Séance effectivement réalisée :** quatre segments Strava intitulés 400 m mais affichés à 0,42 km ; chronos 1'27", 1'33", 1'34", 1'43". Allures supérieures aux prévisions malgré une dernière répétition ralentie. Voir la [fiche détaillée](../data/runs/2026/2026-10-12-track-intervals.md). État du genou après l'effort : non renseigné.
 
 ## Test de niveau prévu : mardi 13 ou jeudi 15 octobre, à midi
 
-- Mardi : possible sous réserve de la météo, de la récupération et de l'état du genou.
+- Mardi : date initialement envisagée, **désormais déconseillée** en raison de la séance de 4 × 400 m plus intense que prévu lundi, de la séance EF de plus de 35 min dimanche et du contexte de gêne au genou.
 - Mercredi midi : indisponible (présence à la maison pour les enfants).
-- Jeudi : solution de repli, et option préférable après 4 × 400 m le lundi ou si de la fatigue persiste.
+- **Jeudi : date préférable** après les quatre répétitions rapides du lundi, sous réserve d'une récupération suffisante et de l'absence de gêne ; reporter encore si nécessaire.
 
 ### Hypothèses de niveau (non mesurées)
 
@@ -76,4 +76,4 @@ Après 12–15 min de footing très facile :
 
 ## Provenance
 
-Intentions déclarées par le coureur le 12 octobre 2026 et description du test Campus Coach communiquée le même jour. Aucune donnée de séance réalisée n'est disponible à la rédaction.
+Intentions du coureur et description du test Campus Coach, suivies des captures Strava et de son compte rendu de la séance réelle du lundi 12 octobre 2026. Le test maximal demeure prévu, non réalisé.
