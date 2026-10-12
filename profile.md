@@ -222,9 +222,11 @@ première reconnaissance **effectuée au stade Pablo Picasso le lundi 12 octobre
 - Inscription à **Campus Coach** pour accompagner et structurer les entraînements.
 - Première séance demandée : **test maximal sur piste de 1 500 m**, à allure progressive, avec échauffement préalable.
 - **Dimanche 11 octobre :** footing d'EF de plus de 35 minutes, durée exacte et autres métriques non documentées dans cette note.
-- **Lundi 12 octobre midi :** première séance sur la piste réalisée : quatre segments Strava d'environ 0,42 km en 1'27\", 1'33\", 1'34\" et 1'43\" ; allures nettement trop rapides par rapport à l'objectif. FC montant autour de 180 bpm peu après chaque fraction selon le coureur (sangle abdominale), à distinguer des FC moyennes par segment.
-- **Test de 1 500 m restant à effectuer** : jeudi 15 octobre midi préférable après cette séance, sous réserve de récupération et de l'état du genou ; mardi 13 devenu peu judicieux, mercredi midi indisponible.
+- **Lundi 12 octobre midi :** première séance sur la piste réalisée : quatre segments Strava d'environ 0,42 km en 1'27", 1'33", 1'34" et 1'43" ; allures nettement trop rapides par rapport à l'objectif. FC montant autour de 180 bpm peu après chaque fraction selon le coureur (sangle abdominale), à distinguer des FC moyennes par segment.
+- **Test de 1 500 m restant à effectuer** : ne pas le réaliser mardi 13 après quatre fractions très intenses ; jeudi 15 midi **uniquement si la récupération est complète**, sinon reporter. Mercredi midi indisponible.
 - À partir du 5 km en **26'00" du 3 octobre**, VMA grossièrement estimée autour de **13,5 km/h (13–14)**, **non mesurée** ; temps indicatif 1 500 m autour de **7'10" (7'00"–7'25")**, à vérifier par le test.
 - Planning, repères par 400 m et précautions détaillés dans le [plan de découverte de piste et de test 1 500 m](plans/2026-10-12-decouverte-piste-test-1500m.md).
+
+- **Précisions du 12 octobre :** quatre répétitions en couloir 1, échauffement en couloirs extérieurs ; très essoufflé après chaque 400 m, jambes lourdes persistantes ; pas de gêne au genou pendant la course une fois lancé, sensation minime occasionnelle en dehors. Repère visé pour le test : 30 s / 100 m au départ, puis progression selon les sensations. Voir la fiche de séance.
 
 La découverte de piste est enregistrée comme effectuée, **mais pas le test 1 500 m**. La VMA et la FCmax restent inconnues ; ne pas inférer leur valeur des segments rapides.
