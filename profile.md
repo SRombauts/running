@@ -1,6 +1,6 @@
 # Profil running
 
-Dernière mise à jour : 2026-10-12
+Dernière mise à jour : 2026-10-13
 
 ## Équipement
 
@@ -8,6 +8,14 @@ Dernière mise à jour : 2026-10-12
 - Mesure optique de la fréquence cardiaque au poignet.
 - Les pics de FC, notamment lors des accélérations,
   doivent être interprétés avec prudence.
+
+### Matériel de renforcement et poste de travail
+
+- Deux haltères de fitness de **3 kg**.
+- Barre de traction en haut d'un encadrement de porte, à proximité du bureau ; vérifier sa fixation et sa charge admissible avant les suspensions complètes.
+- Bureau **assis-debout à réglage mécanique**, sans moteur ni positions mémorisées ; utilisation en position debout.
+- Suspensions légères envisagées comme pauses de détente, et non comme traitement d'un problème de dos.
+- Programme proposé : [renforcement musculaire à domicile](plans/2026-10-13-renforcement-musculaire-debutant.md).
 
 ### Chaussures de course
 
@@ -174,6 +182,13 @@ avec une seule sortie de 15 minutes, puis reprise.
 - Aucune blessure chronique médicalement diagnostiquée documentée.
 
 ## Objectifs
+
+### Renforcement musculaire
+
+- Objectifs : **jambes et fessiers**, **dos**, **épaules**, **pectoraux** et **biceps**.
+- Maintenir des séances courtes et régulières en complément des trois sorties de course, compatibles avec un emploi du temps professionnel chargé.
+- Programme de départ proposé : **deux séances de 15 à 20 minutes par semaine**, modulables selon la récupération, avec une progression prudente.
+- Exercices et adaptations : [plan de renforcement musculaire](plans/2026-10-13-renforcement-musculaire-debutant.md).
 
 ### Courses prévues
 
