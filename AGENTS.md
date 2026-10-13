@@ -8,6 +8,65 @@ Aider à analyser mes entraînements de course à pied,
 Privilégier des conseils individualisés, fondés sur mes
 données réelles plutôt que sur des plans génériques.
 
+## Procédure obligatoire avant toute intervention Git
+
+- **Commencer par lire `AGENTS.md` à la racine du dépôt**, avant toute
+  consultation approfondie, proposition de modification ou écriture.
+- Vérifier également les éventuels fichiers `AGENTS.md` dans les
+  sous-répertoires concernés, et appliquer leurs consignes spécifiques.
+- Lire ensuite uniquement les fichiers nécessaires à la demande ;
+  vérifier l'état actuel de la branche et du contenu avant de modifier.
+- Respecter la portée exacte de la demande : **ne pas élargir
+  spontanément les changements** à d'autres fichiers ou sujets.
+- Avant tout commit, relire le diff pour détecter ajouts superflus,
+  données personnelles et informations non vérifiées.
+
+## Politique de contenu et confidentialité
+
+**Ce dépôt est public : tout ajout doit être considéré comme publié.**
+
+- **Ne pas transformer les conversations en journal détaillé.**
+  Ne pas enregistrer automatiquement chaque essai ponctuel,
+  ressenti anecdotique, question, hypothèse ou échange.
+- Conserver surtout les **informations durables et pertinentes**
+  pour l'entraînement : équipement réellement disponible,
+  objectifs sportifs, contraintes générales, méthodes utiles.
+- Ajouter un programme ou une synthèse lorsqu'ils sont
+  explicitement demandés ou utiles à un suivi convenu.
+  Distinguer clairement **plan proposé** et **plan validé**.
+- Enregistrer les résultats de séances, courses ou tests
+  réellement effectués lorsqu'ils font partie du suivi souhaité,
+  avec leur contexte et leur provenance ; ne pas les confondre
+  avec les essais informels discutés au fil de l'eau.
+- **Ne pas publier d'informations professionnelles ou privées
+  sans demande explicite** : employeur, nouvelle prise de poste,
+  détails d'organisation du travail, éléments familiaux,
+  adresse précise ou autres informations identifiantes.
+  Préférer une formulation générale si une contrainte
+  personnelle est indispensable au programme.
+- Ne pas documenter les détails domestiques accessoires
+  ou les difficultés passagères qui n'apportent rien
+  à la préparation sportive.
+- Pour toute information personnelle non indispensable,
+  **privilégier l'omission** plutôt que la retranscription.
+- Vérifier les noms propres et les éléments sensibles
+  dans **les fichiers et les messages de commit**.
+
+## Hygiène des modifications Git
+
+- Faire des modifications minimales et ciblées, et regrouper
+  les changements cohérents dans un seul commit.
+- Ne pas créer de succession de petits commits de corrections
+  pour des détails qui pouvaient être traités avant publication.
+- Ne jamais réécrire l'historique d'une branche partagée
+  sans demande explicite ; si une correction de confidentialité
+  l'exige, vérifier le périmètre et les risques avant d'agir.
+- Une réécriture d'historique public ne garantit pas
+  la disparition des anciens objets Git ou caches : ne pas
+  promettre l'effacement complet.
+- Après écriture, vérifier la branche et le contenu effectivement
+  publiés avant de confirmer le résultat.
+
 ## Sources de données
 
 - `profile.md` : profil, capacités, habitudes et objectifs.
