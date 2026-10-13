@@ -36,7 +36,7 @@ Les **séances A et B sont deux variantes Full Body**, à alterner selon le plan
 |---|---|---|
 | Squat au poids du corps | 10–12 répétitions | Quadriceps et fessiers ; amplitude confortable. Ensuite, possibilité de tenir un haltère de 3 kg contre la poitrine |
 | Rowing unilatéral à 3 kg | 10–12 par côté | Dos et biceps ; appui de la main libre, dos neutre, tirer le coude vers la hanche |
-| Pompes | 6–10 | Pectoraux, triceps et épaules ; commencer **à genoux ou inclinées**, selon la variante permettant un mouvement propre (gainage, coudes à environ 30–45° du buste). Passer progressivement aux pompes classiques lorsque la force et la technique le permettent |
+| Pompes | 6–10 | Pectoraux, triceps et épaules ; commencer à genoux ou inclinées, selon la variante permettant un mouvement propre (gainage, coudes à environ 30–45° du buste). Passer progressivement aux pompes classiques lorsque la force et la technique le permettent |
 | Pont fessier | 12–15 | Fessiers ; monter le bassin sans cambrer excessivement |
 | Curl biceps à 3 kg | 8–12 | Coudes proches du corps ; éviter l'élan |
 | Élévations latérales à 2 × 3 kg | 8–10 (si contrôlé) | Deltoïdes moyens ; coudes un peu fléchis, pas de balancement, bras au plus à hauteur des épaules |
@@ -73,14 +73,14 @@ Commencer les squats sans charge avant d'utiliser un ou deux haltères. En cas d
 - **Pause détente :** une ou deux suspensions de 10–20 secondes avec **appui partiel des pieds** si nécessaire. Ne pas chercher un étirement maximal ni laisser les épaules partir brutalement vers le haut.
 - **Activation scapulaire :** 4–6 petites répétitions, coudes tendus, en abaissant légèrement les omoplates ; pieds en appui si besoin.
 - **Tractions assistées :** progression ultérieure, quand la suspension est confortable et la fixation vérifiée ; commencer par 2–4 répétitions avec l'aide des jambes.
-- Arrêter si douleur d'épaule, picotements ou sensations inhabituelles. Les suspensions sont une pause de détente, **pas un traitement médical pour le dos**.
+- Arrêter en cas de douleur à l'épaule, de picotements ou de sensations inhabituelles. Les suspensions sont une pause de détente, **pas un traitement médical pour le dos**.
 
 ## Bureau assis-debout et pauses actives
 
 - Bureau **mécanique**, sans moteur ni positions mémorisées ; le réglage peut demander un peu de temps.
 - L'utilisation **debout** fait partie des possibilités actuelles. Pour entretenir l'habitude, associer un passage debout à un déclencheur simple (par exemple après le déjeuner), sans imposer de multiples réglages.
 - Privilégier l'alternance des postures et de courtes marches : rester immobile debout longtemps n'est pas un objectif en soi.
-- Si le réglage devient peu pratique lors d'une journée chargée, conserver les petites pauses de mouvement plutôt que renoncer à bouger.
+- Si le réglage devient peu pratique lors d'une journée chargée, conserver les petites pauses de mouvement plutôt que de renoncer à bouger.
 
 ## Version express
 
