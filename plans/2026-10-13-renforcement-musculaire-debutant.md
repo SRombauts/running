@@ -4,7 +4,7 @@ type: training-plan
 status: proposed
 activity: strength_training
 frequency_per_week: 2
-session_duration_minutes: "15-20"
+session_duration_minutes: "20-25"
 ---
 
 # Renforcement musculaire à domicile
@@ -19,10 +19,10 @@ Le programme est **proposé**, et non un relevé de séances effectuées.
 
 ## Organisation et progression
 
-- **2 séances de 15–20 minutes par semaine**, idéalement espacées d'environ 48 heures.
+- **2 séances de 20–25 minutes par semaine**, idéalement espacées d'environ 48 heures.
 - Échauffement léger de 3 minutes : marche, mouvements des épaules et des hanches.
 - Au démarrage : **1 série par exercice**, avec 2 à 4 répétitions possibles en réserve et sans échec musculaire. Se reposer 45–90 secondes selon le besoin.
-- Après 2–3 semaines bien tolérées, ajouter une deuxième série aux mouvements prioritaires si la récupération le permet.
+- Après 2–3 semaines bien tolérées, ajouter une deuxième série aux mouvements prioritaires si la récupération le permet (les séances pourront alors durer 25–35 minutes).
 - Éviter le renforcement intense des jambes juste avant une séance de course rapide ou longue.
 - Si l'emploi du temps est chargé, une **séance express de 8–10 minutes** est préférable à une séance trop ambitieuse.
 
@@ -30,23 +30,23 @@ Le programme est **proposé**, et non un relevé de séances effectuées.
 
 | Exercice | Départ conseillé | Muscles et points techniques |
 |---|---|---|
-| Squat au poids du corps | 8–10 répétitions | Quadriceps et fessiers ; amplitude confortable. Ensuite, possibilité de tenir un haltère de 3 kg contre la poitrine |
-| Rowing unilatéral à 3 kg | 10 par côté | Dos et biceps ; appui de la main libre, dos neutre, tirer le coude vers la hanche |
-| Pompes inclinées | 6–10 | Pectoraux et triceps ; utiliser un support stable et suffisamment haut |
-| Pont fessier | 10–12 | Fessiers ; monter le bassin sans cambrer excessivement |
+| Squat au poids du corps | 10–12 répétitions | Quadriceps et fessiers ; amplitude confortable. Ensuite, possibilité de tenir un haltère de 3 kg contre la poitrine |
+| Rowing unilatéral à 3 kg | 10–12 par côté | Dos et biceps ; appui de la main libre, dos neutre, tirer le coude vers la hanche |
+| **Pompes à genoux** | 6–10 | Pectoraux, triceps et épaules ; aligner tête, tronc et genoux, coudes à environ 30–45° du buste ; tapis sous les genoux si nécessaire |
+| Pont fessier | 12–15 | Fessiers ; monter le bassin sans cambrer excessivement |
 | Curl biceps à 3 kg | 8–12 | Coudes proches du corps ; éviter l'élan |
-| Élévations latérales (optionnel) | 8–10, jusqu'à 3 kg si contrôlé | Deltoïdes moyens ; coudes un peu fléchis, pas de balancement, bras au plus à hauteur des épaules |
+| Élévations latérales à 2 × 3 kg | 8–10 (si contrôlé) | Deltoïdes moyens ; coudes un peu fléchis, pas de balancement, bras au plus à hauteur des épaules |
 
 ## Séance B
 
 | Exercice | Départ conseillé | Muscles et points techniques |
 |---|---|---|
-| Soulevé de terre roumain à 2 × 3 kg | 8–10 | Ischio-jambiers et fessiers ; hanches en arrière, colonne neutre |
-| Squat sur chaise | 8–10 | Quadriceps et fessiers ; choisir une amplitude confortable pour les genoux |
-| Rowing unilatéral à 3 kg | 10 par côté | Dos et biceps ; même technique qu'en séance A |
-| Développé couché au sol à 2 × 3 kg | 10–15 | Pectoraux et triceps ; coudes à environ 30–45° du buste, descente lente et contrôlée |
-| Développé épaules unilatéral | 6–8 par côté, avec 3 kg si confortable | Épaules et triceps ; pas de cambrure du dos |
-| Bird-dog (optionnel) | 5–6 par côté | Contrôle du tronc et des hanches |
+| Soulevé de terre roumain à 2 × 3 kg | 10–12 | Ischio-jambiers et fessiers ; hanches en arrière, colonne neutre |
+| Squat sur chaise | 10–12 | Quadriceps et fessiers ; choisir une amplitude confortable pour les genoux |
+| Rowing unilatéral à 3 kg | 10–12 par côté | Dos et biceps ; même technique qu'en séance A |
+| Développé couché au sol à 2 × 3 kg | 12–15 | Pectoraux et triceps ; coudes à environ 30–45° du buste, descente lente et contrôlée |
+| Développé épaules unilatéral | 8–10 par côté, avec 3 kg si confortable | Épaules et triceps ; pas de cambrure du dos |
+| Bird-dog | 6 par côté | Contrôle du tronc et des hanches |
 
 **Variante pectoraux :** développé serré au sol (*squeeze press*), en pressant légèrement les deux haltères l'un contre l'autre, 10–12 répétitions. À alterner avec le développé classique, sans multiplier les exercices dès le départ.
 
@@ -61,7 +61,7 @@ Commencer les squats sans charge avant d'utiliser un ou deux haltères. En cas d
 - **Élévations latérales :** les haltères de 3 kg peuvent être utilisés si les répétitions sont propres et sans douleur. Commencer par 8–10 répétitions, sans hausser les épaules ni donner d'élan.
 - **Développé épaules :** tester la charge un bras à la fois, en gardant une posture stable.
 - Une charge plus légère n'a d'intérêt que si 3 kg empêchent un mouvement contrôlé ; une bouteille d'eau permet d'essayer avant d'acheter.
-- Pour les pectoraux, les pompes inclinées permettent une progression plus large que des haltères légers ; réduire progressivement la hauteur du support.
+- Pour les pectoraux, utiliser les **pompes à genoux** (corps aligné de la tête aux genoux) et le développé couché au sol ; si les genoux ou poignets sont inconfortables, revenir aux pompes inclinées sur un support stable. Pour progresser, essayer ensuite les pompes classiques selon les capacités.
 
 ## Barre de traction : détente et progression
 
@@ -80,7 +80,7 @@ Commencer les squats sans charge avant d'utiliser un ou deux haltères. En cas d
 
 ## Version express
 
-Une série de squats confortables, une série de rowing par bras, une série de pompes inclinées **ou** de développé couché au sol, puis un pont fessier ou un curl biceps : **8–10 minutes**.
+Une série de squats confortables, une série de rowing par bras, une série de **pompes à genoux** (ou inclinées si préférable) **ou** de développé couché au sol, puis un pont fessier ou un curl biceps : **8–10 minutes**.
 
 ## Suivi
 
