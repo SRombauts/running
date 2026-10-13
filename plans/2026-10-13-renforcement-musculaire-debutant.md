@@ -19,12 +19,16 @@ Le programme est **proposé**, et non un relevé de séances effectuées.
 
 ## Organisation et progression
 
-- **2 séances de 20–25 minutes par semaine**, idéalement espacées d'environ 48 heures.
+- **Option de référence : 2 séances Full Body de 20–25 minutes par semaine**, réparties aussi régulièrement que possible (par exemple lundi–jeudi ou mardi–vendredi) : généralement **2 puis 3 jours complets sans renforcement** entre les séances. Un intervalle d'environ 48 heures constitue un minimum pratique de récupération des mêmes groupes musculaires, pas une cible d'espacement.
 - Échauffement léger de 3 minutes : marche, mouvements des épaules et des hanches.
 - Au démarrage : **1 série par exercice**, avec 2 à 4 répétitions possibles en réserve et sans échec musculaire. Se reposer 45–90 secondes selon le besoin.
 - Après 2–3 semaines bien tolérées, ajouter une deuxième série aux mouvements prioritaires si la récupération le permet (les séances pourront alors durer 25–35 minutes).
-- Éviter le renforcement intense des jambes juste avant une séance de course rapide ou longue.
+- Les séances peuvent être réalisées **après une sortie de course**, idéalement après un footing facile : si les deux entraînements sont le même jour, **courir d'abord, puis faire le renforcement**, et éviter l'ordre inverse pour préserver la qualité du running. Après une sortie longue ou un fractionné exigeant, réduire le volume de renforcement (surtout des jambes) ou reporter si la fatigue est importante.
+- Éviter une séance de renforcement exigeante des jambes la veille d'une sortie rapide, d'un test ou d'une compétition.
+- **Autre organisation possible : 3 séances plus courtes de 10–15 minutes par semaine**, environ un jour sur deux (par exemple lundi–mercredi–vendredi), en alternant A/B/A puis B/A/B et **en réduisant les exercices ou séries par séance**, sans augmenter brutalement le volume hebdomadaire total. Choisir cette option si elle est plus facile à maintenir avec les 3 sorties de running ; conserver au moins une journée sans travail exigeant des mêmes muscles entre deux séances.
 - Si l'emploi du temps est chargé, une **séance express de 8–10 minutes** est préférable à une séance trop ambitieuse.
+
+Les **séances A et B sont deux variantes Full Body**, à alterner selon le planning. Les trois séances courtes éventuelles ne s'ajoutent pas à A et B : elles les remplacent avec moins d'exercices par séance.
 
 ## Séance A
 
@@ -32,7 +36,7 @@ Le programme est **proposé**, et non un relevé de séances effectuées.
 |---|---|---|
 | Squat au poids du corps | 10–12 répétitions | Quadriceps et fessiers ; amplitude confortable. Ensuite, possibilité de tenir un haltère de 3 kg contre la poitrine |
 | Rowing unilatéral à 3 kg | 10–12 par côté | Dos et biceps ; appui de la main libre, dos neutre, tirer le coude vers la hanche |
-| **Pompes à genoux** | 6–10 | Pectoraux, triceps et épaules ; aligner tête, tronc et genoux, coudes à environ 30–45° du buste ; tapis sous les genoux si nécessaire |
+| Pompes | 6–10 | Pectoraux, triceps et épaules ; commencer **à genoux ou inclinées**, selon la variante permettant un mouvement propre (gainage, coudes à environ 30–45° du buste). Passer progressivement aux pompes classiques lorsque la force et la technique le permettent |
 | Pont fessier | 12–15 | Fessiers ; monter le bassin sans cambrer excessivement |
 | Curl biceps à 3 kg | 8–12 | Coudes proches du corps ; éviter l'élan |
 | Élévations latérales à 2 × 3 kg | 8–10 (si contrôlé) | Deltoïdes moyens ; coudes un peu fléchis, pas de balancement, bras au plus à hauteur des épaules |
@@ -61,7 +65,7 @@ Commencer les squats sans charge avant d'utiliser un ou deux haltères. En cas d
 - **Élévations latérales :** les haltères de 3 kg peuvent être utilisés si les répétitions sont propres et sans douleur. Commencer par 8–10 répétitions, sans hausser les épaules ni donner d'élan.
 - **Développé épaules :** tester la charge un bras à la fois, en gardant une posture stable.
 - Une charge plus légère n'a d'intérêt que si 3 kg empêchent un mouvement contrôlé ; une bouteille d'eau permet d'essayer avant d'acheter.
-- Pour les pectoraux, utiliser les **pompes à genoux** (corps aligné de la tête aux genoux) et le développé couché au sol ; si les genoux ou poignets sont inconfortables, revenir aux pompes inclinées sur un support stable. Pour progresser, essayer ensuite les pompes classiques selon les capacités.
+- **Pompes :** choisir au départ une variante à genoux ou inclinée, avec contrôle et sans douleur. À genoux, garder l'alignement tête–bassin–genoux ; inclinées, utiliser un support fixe et stable. Lorsque 10–12 répétitions sont maîtrisées avec une marge, essayer une variante plus difficile, jusqu'aux pompes classiques. Compléter par le développé couché au sol avec haltères.
 
 ## Barre de traction : détente et progression
 
@@ -80,7 +84,7 @@ Commencer les squats sans charge avant d'utiliser un ou deux haltères. En cas d
 
 ## Version express
 
-Une série de squats confortables, une série de rowing par bras, une série de **pompes à genoux** (ou inclinées si préférable) **ou** de développé couché au sol, puis un pont fessier ou un curl biceps : **8–10 minutes**.
+Une série de squats confortables, une série de rowing par bras, une série de **pompes** (à genoux ou inclinées au départ) **ou** de développé couché au sol, puis un pont fessier ou un curl biceps : **8–10 minutes**.
 
 ## Suivi
 
