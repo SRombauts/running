@@ -41,6 +41,46 @@ Les **séances A et B sont deux variantes Full Body**, à alterner selon le plan
 | Curl biceps à 3 kg | 8–12 | Coudes proches du corps ; éviter l'élan |
 | Élévations latérales à 2 × 3 kg | 8–10 (si contrôlé) | Deltoïdes moyens ; coudes un peu fléchis, pas de balancement, bras au plus à hauteur des épaules |
 
+### Exécution des exercices — séance A
+
+Les dessins sont des **schémas de mouvement**, non des mesures exactes des angles articulaires. Les consignes et le contrôle du geste priment sur les dessins.
+
+### Squat au poids du corps
+
+<img src="../assets/strength/squat.svg" alt="Schéma en deux positions : squat au poids du corps" width="520">
+
+Pieds écartés environ à la largeur des épaules. Reculer les hanches et plier les genoux comme pour s’asseoir, en gardant les talons au sol et les genoux dans l’axe des pieds. Remonter en poussant dans les pieds ; ajouter un haltère contre la poitrine seulement après avoir maîtrisé le mouvement.
+
+### Rowing unilatéral
+
+<img src="../assets/strength/one-arm-row.svg" alt="Schéma en deux positions : rowing unilatéral" width="520">
+
+Avec une main posée sur un support stable, incliner le buste en conservant le dos neutre. Laisser l’haltère descendre sous l’épaule, puis tirer le coude vers la hanche sans tourner le buste. Redescendre lentement ; répéter de l’autre côté.
+
+### Pompes
+
+<img src="../assets/strength/push-up.svg" alt="Schéma en deux positions : pompes" width="520">
+
+Mains légèrement plus écartées que les épaules, corps gainé. Commencer **à genoux** (alignement tête–bassin–genoux) ou **en inclinaison** sur un support stable. Descendre en contrôlant les coudes, environ à 30–45° du buste, puis repousser. Passer aux pompes classiques lorsque la variante facile est bien maîtrisée.
+
+### Pont fessier
+
+<img src="../assets/strength/glute-bridge.svg" alt="Schéma en deux positions : pont fessier" width="520">
+
+Allongé sur le dos, genoux fléchis et pieds à plat. Contracter les fessiers pour lever le bassin jusqu’à aligner approximativement épaules, hanches et genoux, sans creuser les lombaires. Marquer une courte pause puis redescendre sous contrôle.
+
+### Curl biceps
+
+<img src="../assets/strength/biceps-curl.svg" alt="Schéma en deux positions : curl biceps" width="520">
+
+Debout, coudes proches du buste et poignets neutres, plier les coudes pour monter les haltères sans prendre d’élan. Garder les épaules immobiles, puis redescendre lentement.
+
+### Élévations latérales
+
+<img src="../assets/strength/lateral-raise.svg" alt="Schéma en deux positions : élévations latérales" width="520">
+
+Debout, bras le long du corps, coudes légèrement fléchis. Lever les haltères sur les côtés jusqu’à hauteur d’épaule au maximum, sans hausser les épaules ni balancer le tronc. Redescendre lentement ; diminuer la charge si la technique se dégrade.
+
 ## Séance B
 
 | Exercice | Départ conseillé | Muscles et points techniques |
@@ -52,7 +92,51 @@ Les **séances A et B sont deux variantes Full Body**, à alterner selon le plan
 | Développé épaules unilatéral | 8–10 par côté, avec 3 kg si confortable | Épaules et triceps ; pas de cambrure du dos |
 | Bird-dog | 6 par côté | Contrôle du tronc et des hanches |
 
+### Exécution des exercices — séance B
+
+### Soulevé de terre roumain
+
+<img src="../assets/strength/romanian-deadlift.svg" alt="Schéma en deux positions : soulevé de terre roumain" width="520">
+
+Debout, haltères près des cuisses, genoux légèrement fléchis. Pousser les hanches vers l’arrière en penchant le buste, dos neutre et haltères près des jambes. S’arrêter lorsque l’étirement des ischio-jambiers devient net **sans arrondir le dos**, puis revenir debout en avançant les hanches.
+
+### Squat sur chaise
+
+<img src="../assets/strength/chair-squat.svg" alt="Schéma en deux positions : squat sur chaise" width="520">
+
+Se placer devant une chaise stable, pieds écartés à peu près à la largeur des épaules. Reculer les hanches et descendre jusqu’à effleurer l’assise, sans se laisser tomber. Se relever en poussant sur les pieds ; adapter la hauteur de la chaise à la tolérance des genoux.
+
+### Rowing unilatéral
+
+<img src="../assets/strength/one-arm-row.svg" alt="Schéma en deux positions : rowing unilatéral" width="520">
+
+Même exercice qu’en séance A : main libre sur un appui stable, buste incliné et dos neutre, tirer l’haltère vers la hanche sans faire pivoter le tronc.
+
+### Développé couché au sol
+
+<img src="../assets/strength/floor-press.svg" alt="Schéma en deux positions : développé couché au sol" width="520">
+
+Allongé sur le dos, genoux fléchis, un haltère dans chaque main. Partir avec les bras supérieurs proches du sol et les coudes à environ 30–45° du buste. Pousser au-dessus de la poitrine, puis redescendre lentement sans rebondir sur le sol.
+
+### Développé épaules unilatéral
+
+<img src="../assets/strength/shoulder-press.svg" alt="Schéma en deux positions : développé épaules unilatéral" width="520">
+
+Assis ou debout, tenir un haltère près de l’épaule, paume orientée confortablement. Pousser au-dessus de la tête sans cambrer les lombaires ni hausser fortement l’épaule. Redescendre sous contrôle ; changer de bras.
+
+### Bird-dog
+
+<img src="../assets/strength/bird-dog.svg" alt="Schéma en deux positions : bird-dog" width="520">
+
+Se mettre **à quatre pattes**, mains sous les épaules et genoux sous les hanches. Tendre **simultanément le bras droit et la jambe gauche**, à hauteur du tronc, sans creuser le dos ni tourner le bassin. Revenir lentement à quatre pattes, puis inverser bras et jambe. Faire 6 répétitions de chaque côté, lentement.
+
 **Variante pectoraux :** développé serré au sol (*squeeze press*), en pressant légèrement les deux haltères l'un contre l'autre, 10–12 répétitions. À alterner avec le développé classique, sans multiplier les exercices dès le départ.
+
+### Développé serré au sol (variante)
+
+<img src="../assets/strength/squeeze-press.svg" alt="Schéma en deux positions : développé serré au sol (variante)" width="520">
+
+Allongé sur le dos, coudes fléchis, rapprocher les deux haltères au-dessus du sternum et les presser doucement l’un contre l’autre. Les pousser verticalement en maintenant le contact, puis revenir lentement. C’est une **alternative** au développé couché au sol, pas un exercice supplémentaire obligatoire.
 
 ## Squats et charge des jambes
 
