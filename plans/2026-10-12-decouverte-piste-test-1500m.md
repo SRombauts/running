@@ -7,8 +7,9 @@ location: "Piste d'athlétisme de Nanterre"
 test_distance_km: 1.5
 test_target_seconds: 430
 test_date_options:
-  - 2026-10-13
-  - 2026-10-15
+  - 2026-10-16
+  - 2026-10-17
+  - 2026-10-18
 source: self_report
 ---
 
@@ -18,7 +19,7 @@ source: self_report
 
 - Inscription à **Campus Coach** pour structurer l'entraînement et bénéficier d'un accompagnement.
 - Premier exercice proposé par Campus Coach : **test de niveau sur 1 500 m**, à courir au meilleur temps possible après échauffement, avec départ prudent, progression et fin rapide. Objectif du coach : deuxième moitié légèrement plus rapide.
-- Accès désormais possible à la piste d'athlétisme de Nanterre avec **badge personnel**.
+- Accès à la piste du stade Pablo Picasso via **badge personnel, du lundi au vendredi exclusivement de 12 h à 14 h** (pas d'accès au stade le week-end).
 - **Lundi 12 octobre, midi : reconnaissance effectuée au stade Pablo Picasso**, avec quatre répétitions rapides (voir [fiche de la séance réelle](../data/runs/2026/2026-10-12-track-intervals.md)). Le test maximal n'a pas été effectué aujourd'hui. Le repérage précis des lignes de départ/arrivée n'est pas documenté.
 - Possibilité de tester des allures sur quelques fractions, à condition de conserver un effort contrôlé.
 
@@ -43,11 +44,11 @@ Après 12–15 min de footing très facile :
 
 **Séance effectivement réalisée :** quatre segments Strava intitulés 400 m mais affichés à 0,42 km ; chronos 1'27", 1'33", 1'34", 1'43". Allures supérieures aux prévisions malgré une dernière répétition ralentie. Voir la [fiche détaillée](../data/runs/2026/2026-10-12-track-intervals.md). État du genou après l'effort : non renseigné.
 
-## Test de niveau prévu : mardi 13 ou jeudi 15 octobre, à midi
+## Historique des créneaux de test envisagés (12 octobre)
 
 - Mardi : date initialement envisagée, **désormais déconseillée** en raison de la séance de 4 × 400 m plus intense que prévu lundi, de la séance EF de plus de 35 min dimanche et du contexte de gêne au genou.
 - Mercredi midi : indisponible (présence à la maison pour les enfants).
-- **Jeudi : date préférable** après les quatre répétitions rapides du lundi, sous réserve d'une récupération suffisante et de l'absence de gêne ; reporter encore si nécessaire.
+- Jeudi 15 : date initialement préférée au lundi 12, finalement écartée devant la persistance de jambes lourdes le matin du 15 ; voir l'actualisation ci-dessous.
 
 ### Hypothèses de niveau (non mesurées)
 
@@ -84,4 +85,15 @@ Confirmation : quatre fractions en couloir 1, échauffement dans les couloirs ex
 
 Repère d'allure souhaité : 30 secondes par 100 m (2 min par 400 m), puis accélération progressive selon la forme. Deux tours en 4 min imposeraient 3 min 10 s pour les 700 m restants afin de terminer en 7 min 10 s.
 
-Test : ne pas le réaliser mardi 13 octobre ; jeudi 15 uniquement si récupération complète. Reporter si lourdeur musculaire, courbatures ou gêne au genou. Voir la fiche de séance du 12 octobre pour les observations détaillées.
+Évaluation datée du 12 octobre : mardi 13 déconseillé, jeudi 15 envisageable uniquement avec récupération complète. Décision ensuite révisée au 15 octobre ; voir ci-dessous. Voir la fiche de séance du 12 octobre pour les observations détaillées.
+
+
+## Point de situation — jeudi 15 octobre 2026
+
+- **Récupération déclarée :** jambes encore lourdes au matin du jeudi, avec des courbatures légères ressenties surtout dans les cuisses après les quatre répétitions très rapides du lundi 12. Sensation décrite comme similaire aux jours qui ont suivi le demi-Cooper du 21 septembre et le 5 km du 3 octobre. Pas de mesure clinique ni de diagnostic ; l'intensité inhabituelle est une explication plausible, pas une preuve de sollicitation de fibres musculaires spécifiques.
+- **Orientation pour l'entraînement :** développer progressivement la tolérance à une foulée rapide (quelques accélérations brèves, puis séances de fractionné contrôlées) tout en préservant la majorité des footings faciles et la récupération. Ne pas rechercher les courbatures pour elles-mêmes.
+- **Priorité pratique :** **vendredi 16 octobre entre 12 h et 14 h au stade** si les jambes sont redevenues habituelles. Décider **après 15–20 min d'échauffement facile** et quelques accélérations progressives, sans persistance de lourdeur ni gêne qui modifie la foulée. Ne pas lancer un test maximal si les muscles sont encore franchement fatigués.
+- **Si pas de récupération vendredi :** remplacer le test par un footing d'EF véritablement lent de 25 à 35 min **si confortable**, ou prendre du repos. Ne pas compenser par une séance rapide.
+- **Alternative éventuelle le week-end (17–18 octobre) :** parc André-Malraux, **seulement si la récupération est complète**. Parcours de 1 km avec environ **+5 m de dénivelé positif par boucle selon le coureur**, valeur non vérifiée ; virages et relief rendent le résultat moins comparable à celui de la piste. Choisir un segment de 1 500 m aussi fiable et reproductible que possible, sans se fier exclusivement aux fluctuations de l'allure GPS.
+- **À partir de la semaine du 19 octobre :** disponibilité et attention probablement réduites ; l'option du week-end n'est donc pas un simple report équivalent en conditions.
+- **Statut :** aucun test 1 500 m réalisé ni nouveau créneau confirmé au 15 octobre.

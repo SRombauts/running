@@ -65,3 +65,12 @@ Captures des segments Strava et vue globale de sortie communiquées le 12 octobr
 - **Pilotage du test :** volonté d'utiliser un repère temporel de **30 secondes par 100 m** (60 s par 200 m, 2 minutes par 400 m) pour débuter, puis d'accélérer seulement selon les sensations. Ces distances intermédiaires doivent être vérifiées sur piste.
 - Avec deux tours à 2'00", obtenir 7'10" sur 1 500 m demanderait ensuite 3'10" sur les 700 derniers mètres. L'accélération progressive après le premier tour est plus compatible avec cette projection, mais le test ne doit pas être forcé pour respecter une cible.
 - **Récupération :** après les quatre fractions très soutenues et le footing EF de la veille, ne pas effectuer de test maximal mardi. Jeudi 15 reste une simple option si la récupération musculaire est complète et le genou confortable ; reporter sinon.
+
+
+## Suivi de récupération — jeudi 15 octobre 2026
+
+- Au matin du jeudi, le coureur rapporte **des jambes encore lourdes**, trois jours après les quatre fractions du lundi 12 octobre.
+- Sensation assimilée par le coureur à **des courbatures légères, principalement aux cuisses** ; comparaison spontanée avec la récupération après le demi-Cooper du 21 septembre et la Foulée Suresnoise du 3 octobre.
+- Hypothèse personnelle : les rares efforts très rapides représentent une contrainte musculaire inhabituelle par rapport aux trois séances hebdomadaires historiquement surtout en endurance fondamentale. Cette interprétation est plausible, **sans validation de fibres particulières recrutées ni de mécanisme précis**.
+- Aucune nouvelle mesure de FC, distance ou séance n'est fournie. L'état du genou droit ce jeudi n'est pas spécifiquement réévalué dans ce message.
+- **Conséquence pratique envisagée :** différer le test maximal de 1 500 m au vendredi 16 octobre midi, uniquement si récupération complète ; à défaut, footing très lent ou repos puis éventuel test au parc André-Malraux le week-end si rétabli. Voir le [plan actualisé](../../../plans/2026-10-12-decouverte-piste-test-1500m.md).

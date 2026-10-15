@@ -1,6 +1,6 @@
 # Profil running
 
-Dernière mise à jour : 2026-10-13
+Dernière mise à jour : 2026-10-15
 
 ## Équipement
 
@@ -229,17 +229,18 @@ avec une seule sortie de 15 minutes, puis reprise.
 - Une montée du Mont Valérien avait été envisagée
   pour un test de FC maximale, sans protocole confirmé.
 
-Accès à la piste de Nanterre avec badge personnel ;
-première reconnaissance **effectuée au stade Pablo Picasso le lundi 12 octobre**, avec quatre répétitions rapides (voir [fiche de séance](data/runs/2026/2026-10-12-track-intervals.md)).
+Accès à la piste du stade Pablo Picasso de Nanterre avec badge personnel **du lundi au vendredi uniquement, de 12 h à 14 h** (pas de créneau le week-end). Première reconnaissance effectuée lundi 12 octobre avec quatre répétitions rapides (voir [fiche de séance](data/runs/2026/2026-10-12-track-intervals.md)).
 
-### Campus Coach et test d'entrée (situation au 12 octobre 2026)
+### Campus Coach et test d'entrée (situation au 15 octobre 2026)
 
 - Inscription à **Campus Coach** pour accompagner et structurer les entraînements.
 - Première séance demandée : **test maximal sur piste de 1 500 m**, à allure progressive, avec échauffement préalable.
 - **Dimanche 11 octobre :** footing d'EF de plus de 35 minutes, durée exacte et autres métriques non documentées dans cette note.
 - **Lundi 12 octobre midi :** première séance sur la piste réalisée : quatre segments Strava d'environ 0,42 km en 1'27", 1'33", 1'34" et 1'43" ; allures nettement trop rapides par rapport à l'objectif. FC montant autour de 180 bpm peu après chaque fraction selon le coureur (sangle abdominale), à distinguer des FC moyennes par segment.
-- **Test de 1 500 m restant à effectuer** : ne pas le réaliser mardi 13 après quatre fractions très intenses ; jeudi 15 midi **uniquement si la récupération est complète**, sinon reporter. Mercredi midi indisponible.
+- **Jeudi 15 octobre au matin :** jambes encore lourdes et courbatures légères ressenties principalement aux cuisses trois jours après les 4 × 400 m ; sensations comparables aux suites du demi-Cooper du 21 septembre et du 5 km du 3 octobre. Test non effectué au moment du compte rendu.
+- **Test de 1 500 m restant à effectuer :** meilleure fenêtre au stade **vendredi 16 octobre à midi**, uniquement si les jambes ont retrouvé leur état habituel après échauffement ; sinon footing très facile ou repos. Alternative : week-end au parc André-Malraux si récupération complète, avec un parcours moins standardisé (dénivelé déclaré d'environ +5 m par boucle de 1 km). Disponibilité potentiellement fortement réduite à partir de la semaine du 19 octobre ; aucune date de test confirmée.
 - À partir du 5 km en **26'00" du 3 octobre**, VMA grossièrement estimée autour de **13,5 km/h (13–14)**, **non mesurée** ; temps indicatif 1 500 m autour de **7'10" (7'00"–7'25")**, à vérifier par le test.
+- Les séances rapides restent peu habituelles par rapport aux trois footings hebdomadaires majoritairement faciles ; envisager d'introduire progressivement des accélérations courtes puis du fractionné, sans cumuler d'emblée volume et intensité.
 - Planning, repères par 400 m et précautions détaillés dans le [plan de découverte de piste et de test 1 500 m](plans/2026-10-12-decouverte-piste-test-1500m.md).
 
 - **Précisions du 12 octobre :** quatre répétitions en couloir 1, échauffement en couloirs extérieurs ; très essoufflé après chaque 400 m, jambes lourdes persistantes ; pas de gêne au genou pendant la course une fois lancé, sensation minime occasionnelle en dehors. Repère visé pour le test : 30 s / 100 m au départ, puis progression selon les sensations. Voir la fiche de séance.
