@@ -46,15 +46,13 @@ Valeurs issues du suivi Fitbit, sujettes à variation.
 
 ### FC maximale
 
-- Hypothèse actuelle : 195 bpm.
-- Plage plausible retenue : 190–200 bpm.
-- FC observée durablement vers 185–190 bpm sur la
-  course de 5 km du 3 octobre 2026.
-- Pic affiché proche de 200 bpm au sprint final,
-  sans confirmation par ceinture thoracique.
+- **FCmax de travail retenue : 198 bpm** (estimation opérationnelle, non mesure physiologique certaine).
+- **FCmax probablement au moins égale à 195 bpm**, sous réserve de la fiabilité des mesures.
+- 3 octobre 2026, Foulée Suresnoise 5 km : FC durablement vers 185–190 bpm sur la fin et **pic affiché proche de 200 bpm** au sprint, non confirmé par ceinture thoracique.
+- 16 octobre 2026, test 1 500 m : **pic affiché à 198 bpm** dans Strava ; capteur/source de mesure et précision du pic à confirmer.
+- Deux observations concordantes autour de 198–200 bpm ; FCmax véritable inconnue et éventuellement supérieure.
 
-La FCmax réelle reste inconnue.
-Ne pas utiliser l'ancienne estimation de 180 bpm.
+Utiliser **198 bpm pour les réglages provisoires des applications**, plutôt que l'ancienne estimation de 180 bpm. Les zones dérivées restent approximatives tant que les seuils physiologiques ne sont pas connus.
 
 ### Zones d'entraînement
 
@@ -77,12 +75,11 @@ Ne pas utiliser l'ancienne estimation de 180 bpm.
 
 ### VMA
 
-- VMA non mesurée précisément.
-- Deux demi-Cooper autour de 12 km/h.
-- Tests probablement sous-maximaux.
-- La performance du 3 octobre suggère une capacité
-  supérieure, mais ne permet pas une mesure précise.
-- Ne pas considérer 12 km/h comme une VMA confirmée.
+- **VMA de travail retenue : 14,3 km/h**, soit environ **4'12"/km à 100 % VMA** ; estimation à ajuster selon les séances, pas une valeur mesurée directement.
+- **Test Campus Coach du 16 octobre 2026 : 1 500 m exactement sur piste en 6'25"**, soit **14,03 km/h de vitesse moyenne réelle**. La vitesse sur 1 500 m ne détermine pas mécaniquement la VMA.
+- 14,3 km/h reste une hypothèse plausible compte tenu de la gestion de l'effort (accélération tardive), sans preuve qu'elle soit plus exacte que 14,0 km/h. Écart entre ces deux bases : environ 2 %.
+- Deux anciens demi-Cooper autour de 12 km/h, probablement sous-maximaux : ne pas retenir 12 km/h comme VMA actuelle validée.
+- Pas de nouveau test maximal nécessaire pour commencer à utiliser cette base ; adapter les intensités et la récupération aux sensations.
 
 ### VO2max
 
@@ -238,8 +235,8 @@ Accès à la piste du stade Pablo Picasso de Nanterre avec badge personnel **du 
 - **Dimanche 11 octobre :** footing d'EF de plus de 35 minutes, durée exacte et autres métriques non documentées dans cette note.
 - **Lundi 12 octobre midi :** première séance sur la piste réalisée : quatre segments Strava d'environ 0,42 km en 1'27", 1'33", 1'34" et 1'43" ; allures nettement trop rapides par rapport à l'objectif. FC montant autour de 180 bpm peu après chaque fraction selon le coureur (sangle abdominale), à distinguer des FC moyennes par segment.
 - **Jeudi 15 octobre au matin :** jambes encore lourdes et courbatures légères ressenties principalement aux cuisses trois jours après les 4 × 400 m ; sensations comparables aux suites du demi-Cooper du 21 septembre et du 5 km du 3 octobre. Test non effectué au moment du compte rendu.
-- **Test de 1 500 m restant à effectuer :** meilleure fenêtre au stade **vendredi 16 octobre à midi**, uniquement si les jambes ont retrouvé leur état habituel après échauffement ; sinon footing très facile ou repos. Alternative : week-end au parc André-Malraux si récupération complète, avec un parcours moins standardisé (dénivelé déclaré d'environ +5 m par boucle de 1 km). Disponibilité potentiellement fortement réduite à partir de la semaine du 19 octobre ; aucune date de test confirmée.
-- À partir du 5 km en **26'00" du 3 octobre**, VMA grossièrement estimée autour de **13,5 km/h (13–14)**, **non mesurée** ; temps indicatif 1 500 m autour de **7'10" (7'00"–7'25")**, à vérifier par le test.
+- **Situation au 15 octobre (historique, avant le test) :** meilleure fenêtre au stade envisagée vendredi 16 octobre midi ; alternative envisagée au parc André-Malraux. **Test effectivement réalisé le vendredi 16 octobre** (résultat ci-dessous).
+- **Estimation antérieure au test, conservée pour l'historique :** d'après le 5 km en 26'00" du 3 octobre, VMA autour de 13,5 km/h (13–14) et projection sur 1 500 m de 7'10" (7'00"–7'25"). **Estimations remplacées après le test réel du 16 octobre** par une VMA de travail de 14,3 km/h.
 - Les séances rapides restent peu habituelles par rapport aux trois footings hebdomadaires majoritairement faciles ; envisager d'introduire progressivement des accélérations courtes puis du fractionné, sans cumuler d'emblée volume et intensité.
 - Planning, repères par 400 m et précautions détaillés dans le [plan de découverte de piste et de test 1 500 m](plans/2026-10-12-decouverte-piste-test-1500m.md).
 
@@ -247,4 +244,4 @@ Accès à la piste du stade Pablo Picasso de Nanterre avec badge personnel **du 
 
 **Vendredi 16 octobre 2026 : test Campus Coach de 1 500 m réalisé sur piste, distance réelle déclarée de 1 500 m, en 6'25" (385 s), soit 4'17"/km et environ 14,0 km/h.** Les captures Strava indiquent FC moyenne 173 bpm et pic 198 bpm (fiabilité du pic à confirmer), cadence moyenne 166 pas/min. Allure GPS Strava 4'13"/km, incohérente avec les 1 500 m mesurés sur piste. Départ plus rapide que prévu, allure ensuite maîtrisée, accélération marquée sur la fin puis léger ralentissement sur les 50 derniers mètres ; potentiel de progression ressenti. [Résultat détaillé](data/tests/2026/2026-10-16-1500m-campus-coach.md).
 
-La VMA et la FCmax réelles restent inconnues : ne pas déduire directement la VMA d'un effort de 1 500 m ni assimiler les 198 bpm affichés à une FCmax établie.
+**Réglages retenus après le test : VMA estimée à 14,3 km/h et FCmax de travail de 198 bpm.** La vitesse moyenne mesurée de 14,03 km/h sur 1 500 m et le pic affiché à 198 bpm sont conservés distinctement des estimations physiologiques.
