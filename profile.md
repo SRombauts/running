@@ -1,6 +1,6 @@
 # Profil running
 
-Dernière mise à jour : 2026-10-15
+Dernière mise à jour : 2026-10-16
 
 ## Équipement
 
@@ -231,7 +231,7 @@ avec une seule sortie de 15 minutes, puis reprise.
 
 Accès à la piste du stade Pablo Picasso de Nanterre avec badge personnel **du lundi au vendredi uniquement, de 12 h à 14 h** (pas de créneau le week-end). Première reconnaissance effectuée lundi 12 octobre avec quatre répétitions rapides (voir [fiche de séance](data/runs/2026/2026-10-12-track-intervals.md)).
 
-### Campus Coach et test d'entrée (situation au 15 octobre 2026)
+### Campus Coach et test d'entrée (résultat au 16 octobre 2026)
 
 - Inscription à **Campus Coach** pour accompagner et structurer les entraînements.
 - Première séance demandée : **test maximal sur piste de 1 500 m**, à allure progressive, avec échauffement préalable.
@@ -245,4 +245,6 @@ Accès à la piste du stade Pablo Picasso de Nanterre avec badge personnel **du 
 
 - **Précisions du 12 octobre :** quatre répétitions en couloir 1, échauffement en couloirs extérieurs ; très essoufflé après chaque 400 m, jambes lourdes persistantes ; pas de gêne au genou pendant la course une fois lancé, sensation minime occasionnelle en dehors. Repère visé pour le test : 30 s / 100 m au départ, puis progression selon les sensations. Voir la fiche de séance.
 
-La découverte de piste est enregistrée comme effectuée, **mais pas le test 1 500 m**. La VMA et la FCmax restent inconnues ; ne pas inférer leur valeur des segments rapides.
+**Vendredi 16 octobre 2026 : test Campus Coach de 1 500 m réalisé sur piste, distance réelle déclarée de 1 500 m, en 6'25" (385 s), soit 4'17"/km et environ 14,0 km/h.** Les captures Strava indiquent FC moyenne 173 bpm et pic 198 bpm (fiabilité du pic à confirmer), cadence moyenne 166 pas/min. Allure GPS Strava 4'13"/km, incohérente avec les 1 500 m mesurés sur piste. Départ plus rapide que prévu, allure ensuite maîtrisée, accélération marquée sur la fin puis léger ralentissement sur les 50 derniers mètres ; potentiel de progression ressenti. [Résultat détaillé](data/tests/2026/2026-10-16-1500m-campus-coach.md).
+
+La VMA et la FCmax réelles restent inconnues : ne pas déduire directement la VMA d'un effort de 1 500 m ni assimiler les 198 bpm affichés à une FCmax établie.

@@ -1,12 +1,14 @@
 ---
 date: 2026-10-12
 type: training-plan
-status: test_pending
+status: completed
+test_date: 2026-10-16
+test_duration_seconds: 385
 program: Campus Coach
 location: "Piste d'athlétisme de Nanterre"
 test_distance_km: 1.5
 test_target_seconds: 430
-test_date_options:
+historical_test_date_options:
   - 2026-10-16
   - 2026-10-17
   - 2026-10-18
@@ -97,3 +99,11 @@ Repère d'allure souhaité : 30 secondes par 100 m (2 min par 400 m), puis accé
 - **Alternative éventuelle le week-end (17–18 octobre) :** parc André-Malraux, **seulement si la récupération est complète**. Parcours de 1 km avec environ **+5 m de dénivelé positif par boucle selon le coureur**, valeur non vérifiée ; virages et relief rendent le résultat moins comparable à celui de la piste. Choisir un segment de 1 500 m aussi fiable et reproductible que possible, sans se fier exclusivement aux fluctuations de l'allure GPS.
 - **À partir de la semaine du 19 octobre :** disponibilité et attention probablement réduites ; l'option du week-end n'est donc pas un simple report équivalent en conditions.
 - **Statut :** aucun test 1 500 m réalisé ni nouveau créneau confirmé au 15 octobre.
+
+## Résultat effectif — vendredi 16 octobre 2026
+
+**Test de 1 500 m réalisé sur piste : 6'25" (385 s), à 4'17"/km calculés sur 1 500 m et 14,0 km/h environ.** Résultat notablement plus rapide que la projection initiale de 7'10". Départ plus rapide que prévu ; course gérée ensuite sans difficulté particulière selon le coureur, accélération franche lors des derniers 400 m et 200 m, léger ralentissement lors des derniers 50 m.
+
+Strava affiche 4'13"/km d'allure moyenne, probablement en raison d'une distance GPS légèrement surestimée ; la distance déclarée est exactement 1 500 m sur piste. FC moyenne 173 bpm et pic affiché 198 bpm ; ses zones calculées sur une hypothèse de FCmax **174 bpm** sont inadéquates. La performance ne constitue pas une mesure directe de VMA ou de FCmax.
+
+Résultat détaillé dans la [fiche du test de 1 500 m du 16 octobre](../data/tests/2026/2026-10-16-1500m-campus-coach.md). Les dates envisagées et recommandations antérieures ci-dessus restent conservées comme historique, **non comme planning courant**.
