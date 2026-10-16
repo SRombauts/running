@@ -4,16 +4,13 @@ Dernière mise à jour : 2026-10-16
 
 ## Équipement
 
-- Bracelet : Google Fitbit Inspire 3.
-- Mesure optique de la fréquence cardiaque au poignet.
+- Montre **Google Fitbit Inspire 3** avec mesure optique de la fréquence cardiaque au poignet.
 - Ceinture thoracique cardio : **Garmin HRM 200**, utilisée notamment pour le test de 1 500 m du 16 octobre 2026.
-- Les pics de FC, notamment lors des accélérations,
-  doivent être interprétés avec prudence.
 
 ### Matériel de renforcement et poste de travail
 
 - Deux haltères de fitness de **3 kg**.
-- Barre de traction en haut d'un encadrement de porte, à proximité du bureau ; vérifier sa fixation et sa charge admissible avant les suspensions complètes.
+- **Barre de traction** en haut d'un encadrement de porte, à proximité du bureau.
 - Bureau **assis-debout à réglage mécanique**, sans moteur ni positions mémorisées ; utilisation en position debout.
 - Suspensions légères envisagées comme pauses de détente, et non comme traitement d'un problème de dos.
 - Programme proposé : [renforcement musculaire à domicile](plans/2026-10-13-renforcement-musculaire-debutant.md).
@@ -23,11 +20,10 @@ Dernière mise à jour : 2026-10-16
 - Modèle actuel : Kiprun Kipcore « Black and White ».
 - Pointure : 42 (pointure habituelle pour toutes les chaussures).
 - Achat : juillet 2026.
-- Poids mesuré personnellement : 281 g pour une chaussure en pointure 42
-  (début octobre 2026 ; ne pas confondre avec un poids fabricant).
+- Poids mesuré personnellement : 281 g pour une chaussure en pointure 42.
 - État au 9 octobre 2026 : encore en très bon état.
 - Pas encore essayé les pointures 42,5 ou 43 pour courir.
-- Paire précédente : utilisée environ six mois, puis écartée lorsque
+- Paire précédente (même modèle) utilisée environ six mois, puis écartée lorsque
   certaines zones de la semelle extérieure étaient devenues assez lisses.
 
 ## Caractéristiques physiques
@@ -39,21 +35,16 @@ Dernière mise à jour : 2026-10-16
 
 ### FC au repos
 
-- Environ 65 bpm en moyenne début octobre 2026.
-- 67 bpm le 23 septembre 2026.
-- Environ 78 bpm en août 2026.
-
-Valeurs issues du suivi Fitbit, sujettes à variation.
+- Environ **65 bpm au repos** en moyenne début octobre 2026.
 
 ### FC maximale
 
 - **FCmax de travail retenue : 198 bpm** (estimation opérationnelle, non mesure physiologique certaine).
-- **FCmax probablement au moins égale à 195 bpm**, sous réserve de la fiabilité des mesures.
-- 3 octobre 2026, Foulée Suresnoise 5 km : FC durablement vers 185–190 bpm sur la fin et **pic affiché proche de 200 bpm** au sprint, non confirmé par ceinture thoracique.
-- 16 octobre 2026, test 1 500 m : **pic affiché à 198 bpm** dans Strava, **mesuré avec la ceinture thoracique Garmin HRM 200** (source confirmée par le coureur). Valeur plus fiable qu’une estimation optique au poignet, sans être une détermination certaine de la FCmax physiologique.
-- Deux observations concordantes autour de 198–200 bpm ; FCmax véritable inconnue et éventuellement supérieure.
+- 3 octobre 2026, Foulée Suresnoise 5 km : FC durablement vers 185–190 bpm sur la fin et **pic affiché proche de 200 bpm** au sprint, sur montre Fitbit.
+- 16 octobre 2026, test 1 500 m : **plateau affiché à 198 bpm**, **mesuré avec la ceinture thoracique Garmin HRM 200** . Valeur plus fiable qu’une estimation optique au poignet, sans être une détermination certaine de la FCmax physiologique.
+- Deux observations concordantes autour de 198–200 bpm.
 
-Utiliser **198 bpm pour les réglages provisoires des applications**, plutôt que l'ancienne estimation de 180 bpm. Les zones dérivées restent approximatives tant que les seuils physiologiques ne sont pas connus.
+Utiliser **198 bpm pour les réglages provisoires des applications**.
 
 ### Zones d'entraînement
 
@@ -78,9 +69,7 @@ Utiliser **198 bpm pour les réglages provisoires des applications**, plutôt qu
 
 - **VMA de travail retenue : 14,3 km/h**, soit environ **4'12"/km à 100 % VMA** ; estimation à ajuster selon les séances, pas une valeur mesurée directement.
 - **Test Campus Coach du 16 octobre 2026 : 1 500 m exactement sur piste en 6'25"**, soit **14,03 km/h de vitesse moyenne réelle**. La vitesse sur 1 500 m ne détermine pas mécaniquement la VMA.
-- 14,3 km/h reste une hypothèse plausible compte tenu de la gestion de l'effort (accélération tardive), sans preuve qu'elle soit plus exacte que 14,0 km/h. Écart entre ces deux bases : environ 2 %.
 - Deux anciens demi-Cooper autour de 12 km/h, probablement sous-maximaux : ne pas retenir 12 km/h comme VMA actuelle validée.
-- Pas de nouveau test maximal nécessaire pour commencer à utiliser cette base ; adapter les intensités et la récupération aux sensations.
 
 ### VO2max
 
