@@ -6,6 +6,7 @@ Dernière mise à jour : 2026-10-16
 
 - Bracelet : Google Fitbit Inspire 3.
 - Mesure optique de la fréquence cardiaque au poignet.
+- Ceinture thoracique cardio : **Garmin HRM 200**, utilisée notamment pour le test de 1 500 m du 16 octobre 2026.
 - Les pics de FC, notamment lors des accélérations,
   doivent être interprétés avec prudence.
 
@@ -49,7 +50,7 @@ Valeurs issues du suivi Fitbit, sujettes à variation.
 - **FCmax de travail retenue : 198 bpm** (estimation opérationnelle, non mesure physiologique certaine).
 - **FCmax probablement au moins égale à 195 bpm**, sous réserve de la fiabilité des mesures.
 - 3 octobre 2026, Foulée Suresnoise 5 km : FC durablement vers 185–190 bpm sur la fin et **pic affiché proche de 200 bpm** au sprint, non confirmé par ceinture thoracique.
-- 16 octobre 2026, test 1 500 m : **pic affiché à 198 bpm** dans Strava ; capteur/source de mesure et précision du pic à confirmer.
+- 16 octobre 2026, test 1 500 m : **pic affiché à 198 bpm** dans Strava, **mesuré avec la ceinture thoracique Garmin HRM 200** (source confirmée par le coureur). Valeur plus fiable qu’une estimation optique au poignet, sans être une détermination certaine de la FCmax physiologique.
 - Deux observations concordantes autour de 198–200 bpm ; FCmax véritable inconnue et éventuellement supérieure.
 
 Utiliser **198 bpm pour les réglages provisoires des applications**, plutôt que l'ancienne estimation de 180 bpm. Les zones dérivées restent approximatives tant que les seuils physiologiques ne sont pas connus.
@@ -242,6 +243,6 @@ Accès à la piste du stade Pablo Picasso de Nanterre avec badge personnel **du 
 
 - **Précisions du 12 octobre :** quatre répétitions en couloir 1, échauffement en couloirs extérieurs ; très essoufflé après chaque 400 m, jambes lourdes persistantes ; pas de gêne au genou pendant la course une fois lancé, sensation minime occasionnelle en dehors. Repère visé pour le test : 30 s / 100 m au départ, puis progression selon les sensations. Voir la fiche de séance.
 
-**Vendredi 16 octobre 2026 : test Campus Coach de 1 500 m réalisé sur piste, distance réelle déclarée de 1 500 m, en 6'25" (385 s), soit 4'17"/km et environ 14,0 km/h.** Les captures Strava indiquent FC moyenne 173 bpm et pic 198 bpm (fiabilité du pic à confirmer), cadence moyenne 166 pas/min. Allure GPS Strava 4'13"/km, incohérente avec les 1 500 m mesurés sur piste. Départ plus rapide que prévu, allure ensuite maîtrisée, accélération marquée sur la fin puis léger ralentissement sur les 50 derniers mètres ; potentiel de progression ressenti. [Résultat détaillé](data/tests/2026/2026-10-16-1500m-campus-coach.md).
+**Vendredi 16 octobre 2026 : test Campus Coach de 1 500 m réalisé sur piste, distance réelle déclarée de 1 500 m, en 6'25" (385 s), soit 4'17"/km et environ 14,0 km/h.** Les captures Strava indiquent FC moyenne 173 bpm et pic 198 bpm (ceinture thoracique Garmin HRM 200), cadence moyenne 166 pas/min. Allure GPS Strava 4'13"/km, incohérente avec les 1 500 m mesurés sur piste. Départ plus rapide que prévu, allure ensuite maîtrisée, accélération marquée sur la fin puis léger ralentissement sur les 50 derniers mètres ; potentiel de progression ressenti. [Résultat détaillé](data/tests/2026/2026-10-16-1500m-campus-coach.md).
 
 **Réglages retenus après le test : VMA estimée à 14,3 km/h et FCmax de travail de 198 bpm.** La vitesse moyenne mesurée de 14,03 km/h sur 1 500 m et le pic affiché à 198 bpm sont conservés distinctement des estimations physiologiques.
