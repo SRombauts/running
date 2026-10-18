@@ -56,6 +56,8 @@ Après une à deux semaines bien tolérées, une seconde série sur un ou deux m
 
 Le [programme maison Full Body antérieur](2026-10-13-renforcement-musculaire-debutant.md) reste consultable comme référence technique, mais **n'est pas à effectuer en plus des deux séances définies ici**.
 
+**Montée en charge personnelle décidée le 18 octobre :** pour les premières séances de renforcement bas du corps Campus Coach, le coureur **ne commencera pas directement au nombre de répétitions ni de séries affiché**. Il partira d'un volume inférieur, maîtrisable techniquement, puis augmentera progressivement selon les sensations et la récupération, notamment après les exercices excentriques. Le volume initial exact et la vitesse de progression ne sont pas encore fixés ; les valeurs ci-dessous restent **les prescriptions de l'application**, pas des objectifs obligatoires ni des séances déjà effectuées.
+
 ## Semaine 1 — 19 au 25 octobre (4 séances Campus Coach + 1 haut du corps adapté)
 
 | Séance | Programme annoncé |
@@ -95,17 +97,17 @@ Le [programme maison Full Body antérieur](2026-10-13-renforcement-musculaire-de
 |---|---|
 | 1. Endurance fondamentale | **40 min**, **5,94 km estimés**, en EF |
 | 2. S60 + allure 5 km | **1 h**, **9,44 km estimés** : 20 min EF ; **3 × (4 min à 5'02"/km + 1 min 30 s lent)** ; 2 min lent ; **2 × (4 min à 4'41"/km + 2 min lent)** ; 10 min EF. La somme théorique est légèrement supérieure à 60 min selon la prise en compte des récupérations finales |
-| 3. Renforcement (séance clé) | **15 min** — circuit de **7 exercices annoncé**, **4 séries**, mais seuls **5 exercices** sont visibles dans la capture (voir ci-dessous) |
+| 3. Renforcement (séance clé) | **15 min** — circuit de **5 exercices**, **4 séries** affichées ; le descriptif général de l’application indique « 7 exercices » par erreur |
 | 4. Sortie longue & active | **1 h 10**, **10,32 km estimés** : 35 min EF ; **3 × (3 min à 6'17"/km + 1 min lent + 3 min à 5'56"/km + 1 min lent)** ; 3 min à 6'17"/km ; 8 min EF. Bloc actif décrit comme facultatif selon l'état de fatigue |
 
-**Renforcement S3**, éléments lisibles :
+**Renforcement S3**, liste complète des **5 exercices** (confirmée par le coureur) :
 - Flexion de genou **12 répétitions**, effort intense.
 - Déplacements latéraux **12 répétitions**, effort intense.
 - Extension de mollet penché **12 répétitions**, effort intense.
 - Gainage frontal **30 s**, effort intense.
 - Gainage latéral **30 s**, effort intense.
-- **Deux autres exercices annoncés, non visibles sur la capture** : non reconstitués.
-- Description générale : enchaîner les 7 exercices sans pause et répéter le circuit **4 fois**. **Discordance dans l'interface** : la description indique **1 min 30 s** de récupération entre séries, tandis que le détail visible affiche **2 min**.
+- Le descriptif général annonce à tort 7 exercices ; **seuls ces 5 exercices constituent la séance**, confirmé par le coureur le 18 octobre 2026. La consigne affichée est de répéter le circuit **4 fois**, **à adapter progressivement**.
+- **Autre discordance dans l’interface** : la description indique **1 min 30 s** de récupération entre les séries, tandis que le détail visible affiche **2 min**.
 
 ## Semaine 4 — 9 au 15 novembre (4 séances Campus Coach + 1 haut du corps adapté)
 
@@ -129,4 +131,4 @@ Le [programme maison Full Body antérieur](2026-10-13-renforcement-musculaire-de
 - Le plan introduit simultanément **une séance de qualité par semaine**, **une séance de renforcement** (dont du travail excentrique sur genoux/mollets) et, en semaines 2 et 3, **une sortie longue avec bloc actif**. Il s'agit d'une proposition logicielle, **pas d'une charge déjà validée par la récupération**.
 - Sur les séances notées « effort maximal » en renforcement, préserver la technique et éviter de chercher l'échec musculaire lors de la découverte des exercices. Ajuster si courbatures, fatigue musculaire ou gêne au genou ; ne pas transformer les consignes affichées en obligation.
 - Privilégier les retours de **difficulté réellement ressentie**, de récupération, de fréquence cardiaque et de tolérance articulaire pour réviser allures et volumes. Les distances de l'application et l'estimation de chrono ne sont pas des performances acquises.
-- **Organisation de renforcement adaptée retenue :** séance jambes Campus Coach + **une seule** séance haut du corps personnalisée, et non les deux séances Full Body de l'ancien programme maison. Le renforcement de la semaine 3 reste incomplet faute de capture de ses deux derniers exercices.
+- **Organisation de renforcement adaptée retenue :** séance jambes Campus Coach + **une seule** séance haut du corps personnalisée, et non les deux séances Full Body de l'ancien programme maison. La semaine 3 compte bien cinq exercices, sans exercices manquants (erreur de description dans l’application). Le volume de répétitions/séries sera réduit au démarrage puis adapté selon la récupération.
