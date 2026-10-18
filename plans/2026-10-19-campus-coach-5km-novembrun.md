@@ -6,7 +6,7 @@ provider: Campus Coach
 activity: running
 goal_distance_km: 5
 goal_race_date: 2026-11-22
-race_registration: not_confirmed
+race_registration: confirmed
 coverage: weeks_1_to_4_of_5
 source: screenshots_shared_2026-10-18
 ---
@@ -17,7 +17,7 @@ source: screenshots_shared_2026-10-18
 
 **Plan proposé par Campus Coach**, communiqué sous forme de captures d'écran le 18 octobre 2026 ; **aucune séance de ce plan n'est documentée ici comme réalisée**. Programme de cinq semaines annoncé du 19 octobre au 22 novembre ; les captures permettent de décrire les **semaines 1 à 4**, mais **pas la semaine 5**. Les dates ci-dessous sont des plages hebdomadaires ; **aucun jour de la semaine n'est imposé** dans les captures.
 
-Course envisagée : **5 km de Novemb’Run, le dimanche 22 novembre 2026 à Paris**. Inscription à cette épreuve **non confirmée** lors du partage des captures. Les 10 km des Champs-Élysées du 7 février 2027 et des Lions à Rueil-Malmaison du 7 mars 2027 sont, eux, déjà indiqués comme **inscriptions confirmées** dans le [profil](../profile.md).
+Course cible : **5 km de Novemb’Run, le dimanche 22 novembre 2026 à Paris — inscription confirmée par le coureur le 18 octobre 2026**. Les 10 km des Champs-Élysées du 7 février 2027 et des Lions à Rueil-Malmaison du 7 mars 2027 sont, eux, déjà indiqués comme **inscriptions confirmées** dans le [profil](../profile.md).
 
 Estimation initiale Campus Coach pour 5 km : **23 min 30 s**, avec une cible affichée de **23 min 25 s** à la fin du programme (gain affiché de 5 s sur la capture du plan ; estimation antérieure évoquée de 10 s). Ces chiffres sont **des prédictions du logiciel**, fondées initialement sur la compétition de 5 km et le test sur piste de 1 500 m ; ils devront être confrontés aux séances réellement effectuées et aux retours de difficulté perçue, que Campus Coach peut utiliser pour affiner le programme.
 
@@ -30,9 +30,33 @@ Repères d'allure utilisés dans les captures :
 - « Allure 5 km » : **4 min 41 s/km**.
 - « Allure lente » : récupération en footing lent, **allure chiffrée non précisée**.
 
-Les distances de séances sont les **estimations affichées par Campus Coach**, non des distances effectivement parcourues.
+Les distances de séances sont les **estimations affichées par Campus Coach**, non des distances effectivement parcourues. Les captures montrent les récapitulatifs des séances d'endurance fondamentale (durée et distance prévisionnelle), **mais pas leurs écrans de détail** : le découpage éventuel de ces footings n'est donc pas documenté, et l'allure EF générale ci-dessus ne garantit pas qu'ils soient intégralement à allure constante.
 
-## Semaine 1 — 19 au 25 octobre (4 séances proposées)
+## Organisation de renforcement retenue pour cette préparation
+
+**Adaptation personnelle du plan Campus Coach, distincte des prescriptions visibles dans l'application :**
+- **1 séance de bas du corps par semaine (15 min)** : celle de **Campus Coach**, déjà décrite dans le tableau de la semaine concernée et détaillée ci-dessous, **sans ajouter les séances jambes de l'ancien programme maison**.
+- **1 séance de haut du corps par semaine (~15–20 min)** : adaptation de notre [programme maison antérieur](2026-10-13-renforcement-musculaire-debutant.md), pour compléter le travail des jambes avec dos, pectoraux, épaules et biceps. Il s'agit d'une **séance supplémentaire proposée**, absente de l'application.
+- **3 sorties de running par semaine** comme prescrit par Campus Coach : on passe donc de **4 activités hebdomadaires présentées dans l'application à 5 activités prévues**, si la récupération le permet. Cette adaptation n'ajoute **aucune séance de course**.
+
+### Séance haut du corps adaptée (~15–20 min)
+
+Échauffement : **2–3 minutes** de mobilisations douces des épaules, bras et poignets. Au départ, **une série de chaque exercice**, avec mouvements contrôlés et **2–4 répétitions en réserve**, sans échec musculaire. Récupérations de **45–90 s** selon le besoin.
+
+| Exercice | Volume de départ | Option / précaution |
+|---|---|---|
+| Rowing unilatéral, haltère 3 kg | **10–12 répétitions par bras** | Main libre en appui stable, dos neutre ; cible dos et biceps |
+| Pompes | **6–10 répétitions** | À genoux ou inclinées selon le niveau ; **alternative** : développé couché au sol à deux haltères de 3 kg, **12–15 répétitions**, sans additionner les deux d'emblée |
+| Développé épaules unilatéral, 3 kg si confortable | **8–10 répétitions par bras** | Sans cambrer le dos ; réduire la charge si nécessaire |
+| Curl biceps, haltères de 3 kg | **8–12 répétitions** | Sans élan, coudes près du buste |
+
+Après une à deux semaines bien tolérées, une seconde série sur un ou deux mouvements peut être envisagée ; **ne pas chercher à progresser simultanément en volume de renforcement et en intensité de course**. Un manque de temps peut justifier de faire uniquement rowing + pompes/développé + épaules.
+
+**Placement** : haut du corps éventuellement après une EF ou un autre jour ; bas du corps de préférence loin de la séance de qualité et de la sortie longue active (viser **environ 48 h quand c'est possible**), jamais en cherchant à compenser une séance manquée. En cas de courbatures importantes, de fatigue ou de gêne articulaire, alléger ou reporter. Les dates exactes ne sont **pas prescrites par les captures Campus Coach**.
+
+Le [programme maison Full Body antérieur](2026-10-13-renforcement-musculaire-debutant.md) reste consultable comme référence technique, mais **n'est pas à effectuer en plus des deux séances définies ici**.
+
+## Semaine 1 — 19 au 25 octobre (4 séances Campus Coach + 1 haut du corps adapté)
 
 | Séance | Programme annoncé |
 |---|---|
@@ -52,7 +76,7 @@ Les distances de séances sont les **estimations affichées par Campus Coach**, 
 8. Extension mollet excentrique — **4 répétitions**, effort intense.
 9. **2 min** de récupération **entre les séries**.
 
-## Semaine 2 — 26 octobre au 1er novembre (4 séances proposées)
+## Semaine 2 — 26 octobre au 1er novembre (4 séances Campus Coach + 1 haut du corps adapté)
 
 | Séance | Programme annoncé |
 |---|---|
@@ -65,7 +89,7 @@ Les distances de séances sont les **estimations affichées par Campus Coach**, 
 - **Bloc 1, 3 séries** : flexion de genou **12 répétitions**, déplacements latéraux **12 répétitions**, extension de mollet penché **12 répétitions** ; chaque exercice noté « effort intense » ; récupération **1 min 30 s** entre les séries.
 - **Bloc 2, 2 séries** : flexion de genou excentrique **6 répétitions**, extension mollet excentrique **6 répétitions** ; chaque exercice noté « effort maximal » par Campus Coach ; récupération **1 min 30 s** entre les séries.
 
-## Semaine 3 — 2 au 8 novembre (4 séances proposées)
+## Semaine 3 — 2 au 8 novembre (4 séances Campus Coach + 1 haut du corps adapté)
 
 | Séance | Programme annoncé |
 |---|---|
@@ -83,7 +107,7 @@ Les distances de séances sont les **estimations affichées par Campus Coach**, 
 - **Deux autres exercices annoncés, non visibles sur la capture** : non reconstitués.
 - Description générale : enchaîner les 7 exercices sans pause et répéter le circuit **4 fois**. **Discordance dans l'interface** : la description indique **1 min 30 s** de récupération entre séries, tandis que le détail visible affiche **2 min**.
 
-## Semaine 4 — 9 au 15 novembre (4 séances proposées)
+## Semaine 4 — 9 au 15 novembre (4 séances Campus Coach + 1 haut du corps adapté)
 
 | Séance | Programme annoncé |
 |---|---|
@@ -98,11 +122,11 @@ Les distances de séances sont les **estimations affichées par Campus Coach**, 
 
 ## Semaine 5 — 16 au 22 novembre
 
-**Contenu non fourni** dans les captures partagées. Période de la semaine de compétition supposée d'après le calendrier de cinq semaines, mais **ne pas inventer une séance d'affûtage ni considérer la participation à Novemb’Run comme confirmée**.
+**Contenu non fourni** dans les captures partagées. Période de la semaine de compétition supposée d'après le calendrier de cinq semaines, mais **ne pas inventer une séance d'affûtage**. **Inscription à Novemb’Run confirmée**, programme de cette semaine encore inconnu.
 
 ## Points de vigilance pour le suivi
 
 - Le plan introduit simultanément **une séance de qualité par semaine**, **une séance de renforcement** (dont du travail excentrique sur genoux/mollets) et, en semaines 2 et 3, **une sortie longue avec bloc actif**. Il s'agit d'une proposition logicielle, **pas d'une charge déjà validée par la récupération**.
 - Sur les séances notées « effort maximal » en renforcement, préserver la technique et éviter de chercher l'échec musculaire lors de la découverte des exercices. Ajuster si courbatures, fatigue musculaire ou gêne au genou ; ne pas transformer les consignes affichées en obligation.
 - Privilégier les retours de **difficulté réellement ressentie**, de récupération, de fréquence cardiaque et de tolérance articulaire pour réviser allures et volumes. Les distances de l'application et l'estimation de chrono ne sont pas des performances acquises.
-- Le [plan de renforcement général](2026-10-13-renforcement-musculaire-debutant.md) constitue une **autre proposition** : **ne pas additionner mécaniquement ses séances** au renforcement déjà intégré au programme Campus Coach.
+- **Organisation de renforcement adaptée retenue :** séance jambes Campus Coach + **une seule** séance haut du corps personnalisée, et non les deux séances Full Body de l'ancien programme maison. Le renforcement de la semaine 3 reste incomplet faute de capture de ses deux derniers exercices.

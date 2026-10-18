@@ -1,6 +1,6 @@
 # Profil running
 
-Dernière mise à jour : 2026-10-16
+Dernière mise à jour : 2026-10-18
 
 ## Équipement
 
@@ -174,10 +174,16 @@ avec une seule sortie de 15 minutes, puis reprise.
 
 - Objectifs : **jambes et fessiers**, **dos**, **épaules**, **pectoraux** et **biceps**.
 - Maintenir des séances courtes et régulières en complément des trois sorties de course, compatibles avec un emploi du temps professionnel chargé.
-- Programme de départ proposé : **deux séances de 15 à 20 minutes par semaine**, modulables selon la récupération, avec une progression prudente.
-- Exercices et adaptations : [plan de renforcement musculaire](plans/2026-10-13-renforcement-musculaire-debutant.md).
+- **Organisation retenue pour la préparation Novemb’Run (séances prévues, non encore réalisées) : une séance bas du corps Campus Coach (~15 min) et une séance haut du corps adaptée (~15–20 min) chaque semaine**, en complément des trois sorties de course.
+- Détails : [plan Campus Coach 5 km](plans/2026-10-19-campus-coach-5km-novembrun.md), y compris la séance haut du corps adaptée. Le [programme antérieur Full Body](plans/2026-10-13-renforcement-musculaire-debutant.md) reste une référence d'exercices, **pas deux séances supplémentaires à cumuler**.
 
 ### Courses prévues
+
+- **22 novembre 2026 — 5 km Novemb’Run (Paris)**
+  - **Inscription confirmée le 18 octobre 2026**.
+  - Objectif : courir un 5 km chronométré sur un parcours annoncé roulant, pour obtenir un temps représentatif du niveau actuel et améliorer le record personnel de 26'00".
+  - Préparation initiale Campus Coach sur cinq semaines à partir du 19 octobre : [plan détaillé](plans/2026-10-19-campus-coach-5km-novembrun.md).
+  - Estimation initiale Campus Coach : 23'30" (prédiction à réévaluer selon les entraînements, **pas un chrono acquis**).
 
 - **7 février 2027 — 10 km des Champs-Élysées (Paris)**
   - Inscription confirmée, catégorie non licencié.
@@ -203,9 +209,7 @@ avec une seule sortie de 15 minutes, puis reprise.
 - Atteindre environ 10 km par sortie longue,
   selon la récupération.
 - Conserver trois séances hebdomadaires.
-- Envisager de remplacer une sortie facile par
-  une séance de fractionné, en alternant efforts
-  courts et longs. Ce rythme n'est pas encore établi.
+- Dès le 19 octobre : programme Campus Coach initial de préparation du 5 km de Novemb’Run, avec trois sorties de course (dont une de qualité) et une séance de renforcement bas du corps par semaine, complété par une séance haut du corps adaptée. Ajuster selon la récupération réelle.
 
 ### Tests envisagés
 
