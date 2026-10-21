@@ -1,6 +1,6 @@
 # Profil running
 
-Dernière mise à jour : 2026-10-18
+Dernière mise à jour : 2026-10-21
 
 ## Équipement
 
@@ -209,7 +209,8 @@ avec une seule sortie de 15 minutes, puis reprise.
 - Atteindre environ 10 km par sortie longue,
   selon la récupération.
 - Conserver trois séances hebdomadaires.
-- Dès le 19 octobre : programme Campus Coach initial de préparation du 5 km de Novemb’Run, avec trois sorties de course (dont une de qualité) et une séance de renforcement bas du corps par semaine, complété par une séance haut du corps adaptée. Ajuster selon la récupération réelle.
+- Depuis le 19 octobre : programme Campus Coach initial de préparation du 5 km de Novemb’Run, avec trois sorties de course (dont une de qualité) et une séance de renforcement bas du corps par semaine, complété par une séance haut du corps adaptée. Ajuster selon la récupération réelle.
+- **Lundi 19 octobre au soir : première séance de fractionné « Seuil 30 » de ce plan réalisée** — 5,20 km en 32'23" (32'18" en mouvement), FC moyenne 133 bpm et maximale 168 bpm selon Strava ; détails et limites des mesures dans la [fiche de sortie](data/runs/2026/2026-10-19-intervals.md).
 
 ### Tests envisagés
 

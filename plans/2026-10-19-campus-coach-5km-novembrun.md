@@ -15,7 +15,7 @@ source: screenshots_shared_2026-10-18
 
 ## Statut et origine
 
-**Plan proposé par Campus Coach**, communiqué sous forme de captures d'écran le 18 octobre 2026 ; **aucune séance de ce plan n'est documentée ici comme réalisée**. Programme de cinq semaines annoncé du 19 octobre au 22 novembre ; les captures permettent de décrire les **semaines 1 à 4**, mais **pas la semaine 5**. Les dates ci-dessous sont des plages hebdomadaires ; **aucun jour de la semaine n'est imposé** dans les captures.
+**Plan proposé par Campus Coach**, communiqué sous forme de captures d'écran le 18 octobre 2026 ; **la séance de fractionné « Seuil 30 » du 19 octobre est désormais documentée comme réalisée** ; le statut des autres séances n'est pas renseigné. Programme de cinq semaines annoncé du 19 octobre au 22 novembre ; les captures permettent de décrire les **semaines 1 à 4**, mais **pas la semaine 5**. Les dates ci-dessous sont des plages hebdomadaires ; **aucun jour de la semaine n'est imposé** dans les captures.
 
 Course cible : **5 km de Novemb’Run, le dimanche 22 novembre 2026 à Paris — inscription confirmée par le coureur le 18 octobre 2026**. Les 10 km des Champs-Élysées du 7 février 2027 et des Lions à Rueil-Malmaison du 7 mars 2027 sont, eux, déjà indiqués comme **inscriptions confirmées** dans le [profil](../profile.md).
 
@@ -64,8 +64,10 @@ Le [programme maison Full Body antérieur](2026-10-13-renforcement-musculaire-de
 |---|---|
 | 1. Renforcement | **15 min** — un bloc de **3 séries de 6 exercices** (détail ci-dessous) |
 | 2. Endurance fondamentale | **30 min**, **4,46 km estimés**, en EF |
-| 3. Seuil 30 (séance clé) | **32 min**, **4,73 km estimés** : 15 min EF ; **6 × (1 min à 4'48"/km + 1 min lent)** ; 5 min EF |
+| 3. Seuil 30 (séance clé, **réalisée le 19 octobre**) | **32 min**, **4,73 km estimés** : 15 min EF ; **6 × (1 min à 4'48"/km + 1 min lent)** ; 5 min EF |
 | 4. Sortie longue | **40 min**, **5,94 km estimés**, en EF |
+
+**Suivi au 21 octobre :** séance « Seuil 30 » effectuée le **lundi 19 octobre au soir** : **5,20 km en 32'23"**, FC moyenne **133 bpm**, maximum **168 bpm** (Strava). La structure d'intervalles est visible sur les graphiques, mais les allures et durées exactes de chaque répétition ne sont pas disponibles. [Fiche de la séance](../data/runs/2026/2026-10-19-intervals.md). Les autres séances de la semaine ne sont pas documentées comme réalisées à cette date (ce qui ne prouve pas qu'elles n'ont pas eu lieu).
 
 **Renforcement S1** (ordre présenté ; circuit à répéter **3 fois**) :
 1. Reverse step up — **8 répétitions**, effort modéré.
