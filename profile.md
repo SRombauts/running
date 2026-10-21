@@ -211,6 +211,7 @@ avec une seule sortie de 15 minutes, puis reprise.
 - Conserver trois séances hebdomadaires.
 - Depuis le 19 octobre : programme Campus Coach initial de préparation du 5 km de Novemb’Run, avec trois sorties de course (dont une de qualité) et une séance de renforcement bas du corps par semaine, complété par une séance haut du corps adaptée. Ajuster selon la récupération réelle.
 - **Lundi 19 octobre au soir : première séance de fractionné « Seuil 30 » de ce plan réalisée** — 5,20 km en 32'23" (32'18" en mouvement), FC moyenne 133 bpm et maximale 168 bpm selon Strava ; détails et limites des mesures dans la [fiche de sortie](data/runs/2026/2026-10-19-intervals.md).
+- **Mercredi 21 octobre : sortie longue EF réalisée** — 6,79 km en 46'04" de déplacement (6'47"/km), FC moyenne 121 bpm et max. 133 bpm ; effort cardiovasculaire facile, mais départ avec fatigue/courbatures et gêne douloureuse avant une fin ressentie facile. [Fiche de sortie](data/runs/2026/2026-10-21-long.md).
 
 ### Tests envisagés
 
