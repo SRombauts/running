@@ -9,6 +9,7 @@ moving_duration_seconds: 1938
 avg_hr_bpm: 133
 max_hr_bpm_displayed: 168
 elevation_gain_m: 21
+heart_rate_sensor: "Garmin HRM 200 (ceinture thoracique ; confirmation du coureur)"
 data_source: "captures Strava transmises le 2026-10-21"
 ---
 
@@ -38,7 +39,7 @@ Première semaine du [plan Campus Coach 5 km Novemb’Run](../../../plans/2026-1
 - **Aucun relevé par fraction** n'est fourni : impossible de confirmer le nombre exact de répétitions, leur durée effective ou leur allure moyenne ; en revanche, le coureur **confirme explicitement** que l'objectif de régularité à **4'48"/km n'a pas été respecté**, avec une fin trop rapide. Les pointes de vitesse GPS ne constituent pas des chronos de fractions fiables.
 - Strava signale « deuxième meilleur temps sur 5 km » : c'est un **badge de classement automatique de l'application**, pas un temps de course de 5 km officiel et comparable à la Foulée Suresnoise.
 - L'encart « Athlete Intelligence » présente une récupération dominante (47,8 %) et des accélérations Z3–Z6 (20,4 %) ; les **zones Strava ne sont pas des seuils physiologiques validés**. Une autre synthèse automatique indique 96 % du temps en zones FC Z1–Z2. Ne pas confondre ces classements avec la répartition réelle des intensités métaboliques.
-- **Capteur de fréquence cardiaque non précisé** par ces captures. Ressenti, récupération musculaire et état du genou après la séance non renseignés.
+- **Capteur de fréquence cardiaque : ceinture thoracique Garmin HRM 200**, selon la règle d'enregistrement Strava confirmée explicitement par le coureur le 21 octobre 2026. Ressenti, récupération musculaire et état du genou immédiatement après cette séance non renseignés dans les captures.
 
 ## Interprétation
 
