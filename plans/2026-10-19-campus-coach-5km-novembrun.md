@@ -67,7 +67,7 @@ Le [programme maison Full Body antérieur](2026-10-13-renforcement-musculaire-de
 | 3. Seuil 30 (séance clé, **réalisée le 19 octobre**) | **32 min**, **4,73 km estimés** : 15 min EF ; **6 × (1 min à 4'48"/km + 1 min lent)** ; 5 min EF |
 | 4. Sortie longue | **40 min**, **5,94 km estimés**, en EF |
 
-**Suivi au 21 octobre :** séance « Seuil 30 » effectuée le **lundi 19 octobre au soir** : **5,20 km en 32'23"**, FC moyenne **133 bpm**, maximum **168 bpm** (Strava). La structure d'intervalles est visible sur les graphiques, mais les allures et durées exactes de chaque répétition ne sont pas disponibles. [Fiche de la séance](../data/runs/2026/2026-10-19-intervals.md). Les autres séances de la semaine ne sont pas documentées comme réalisées à cette date (ce qui ne prouve pas qu'elles n'ont pas eu lieu).
+**Suivi au 21 octobre :** séance « Seuil 30 » effectuée le **lundi 19 octobre au soir** : **5,20 km en 32'23"**, FC moyenne **133 bpm**, maximum **168 bpm** (Strava). Les alternances rapide/lent ont été effectuées, **mais le coureur rapporte avoir accéléré excessivement pendant les fractions d'une minute à cause d'un indicateur d'allure instantanée inadapté, terminant beaucoup trop vite par rapport aux 4'48"/km prescrits**. Les allures moyennes et durées exactes de chaque répétition ne sont pas disponibles. [Fiche de la séance](../data/runs/2026/2026-10-19-intervals.md). Les autres séances de la semaine ne sont pas documentées comme réalisées à cette date (ce qui ne prouve pas qu'elles n'ont pas eu lieu).
 
 **Renforcement S1** (ordre présenté ; circuit à répéter **3 fois**) :
 1. Reverse step up — **8 répétitions**, effort modéré.
