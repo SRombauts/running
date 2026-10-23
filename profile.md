@@ -175,7 +175,7 @@ avec une seule sortie de 15 minutes, puis reprise.
 
 - Objectifs : **jambes et fessiers**, **dos**, **épaules**, **pectoraux** et **biceps**.
 - Maintenir des séances courtes et régulières en complément des trois sorties de course, compatibles avec un emploi du temps professionnel chargé.
-- **Organisation retenue pour la préparation Novemb’Run (séances prévues, non encore réalisées) : une séance bas du corps Campus Coach (~15 min) et une séance haut du corps adaptée (~15–20 min) chaque semaine**, en complément des trois sorties de course.
+- **Organisation retenue pour la préparation Novemb’Run : une séance bas du corps Campus Coach (~15 min prévues) et une séance haut du corps adaptée (~15–20 min) chaque semaine**, en complément des trois sorties de course. Première séance de renforcement de la semaine 1 déclarée réalisée le **23 octobre 2026**, sans volume détaillé ; voir le [suivi Campus Coach](plans/2026-10-19-campus-coach-5km-novembrun.md).
 - Détails : [plan Campus Coach 5 km](plans/2026-10-19-campus-coach-5km-novembrun.md), y compris la séance haut du corps adaptée. Le [programme antérieur Full Body](plans/2026-10-13-renforcement-musculaire-debutant.md) reste une référence d'exercices, **pas deux séances supplémentaires à cumuler**.
 
 ### Courses prévues
