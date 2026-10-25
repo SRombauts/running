@@ -15,7 +15,7 @@ source: screenshots_shared_2026-10-18
 
 ## Statut et origine
 
-**Plan proposé par Campus Coach**, communiqué sous forme de captures d'écran le 18 octobre 2026 ; **les fractionnés du 19 octobre, la sortie longue du 21 octobre et le renforcement du 23 octobre sont documentés comme réalisés** ; l'EF courte est annoncée pour le 24 octobre, sans confirmation de réalisation. Programme de cinq semaines annoncé du 19 octobre au 22 novembre ; les captures permettent de décrire les **semaines 1 à 4**, mais **pas la semaine 5**. Les dates ci-dessous sont des plages hebdomadaires ; **aucun jour de la semaine n'est imposé** dans les captures.
+**Plan proposé par Campus Coach**, communiqué sous forme de captures d'écran le 18 octobre 2026 ; **les quatre séances Campus Coach de la semaine 1 sont documentées comme réalisées**, ainsi que la séance supplémentaire de haut du corps du 25 octobre. L'EF courte, initialement annoncée pour le 24 octobre, a finalement été effectuée le 25 octobre. Programme de cinq semaines annoncé du 19 octobre au 22 novembre ; les captures permettent de décrire les **semaines 1 à 4**, mais **pas la semaine 5**. Les dates ci-dessous sont des plages hebdomadaires ; **aucun jour de la semaine n'est imposé** dans les captures.
 
 Course cible : **5 km de Novemb’Run, le dimanche 22 novembre 2026 à Paris — inscription confirmée par le coureur le 18 octobre 2026**. Les 10 km des Champs-Élysées du 7 février 2027 et des Lions à Rueil-Malmaison du 7 mars 2027 sont, eux, déjà indiqués comme **inscriptions confirmées** dans le [profil](../profile.md).
 
@@ -63,7 +63,7 @@ Le [programme maison Full Body antérieur](2026-10-13-renforcement-musculaire-de
 | Séance | Programme annoncé |
 |---|---|
 | 1. Renforcement (**réalisé le 23 octobre au soir**) | **15 min prévues** — un bloc de **3 séries de 6 exercices prescrites** (détail ci-dessous) ; durée, répétitions et séries effectivement réalisées non précisées |
-| 2. Endurance fondamentale (**prévue le 24 octobre**) | **30 min**, **4,46 km estimés**, en EF ; séance non encore documentée comme réalisée |
+| 2. Endurance fondamentale (**réalisée le 25 octobre**) | **30 min prévues**, **4,46 km estimés** ; **réalisé : 31'15" de déplacement, 4,90 km, 129 bpm moy.** |
 | 3. Seuil 30 (séance clé, **réalisée le 19 octobre**) | **32 min**, **4,73 km estimés** : 15 min EF ; **6 × (1 min à 4'48"/km + 1 min lent)** ; 5 min EF |
 | 4. Sortie longue (**réalisée le 21 octobre**) | **40 min**, **5,94 km estimés**, en EF ; **réalisé : 46'04" de déplacement, 6,79 km, 121 bpm moy.** |
 
@@ -71,7 +71,9 @@ Le [programme maison Full Body antérieur](2026-10-13-renforcement-musculaire-de
 
 **Suivi de la sortie longue du 21 octobre :** 6,79 km en 46'04" de déplacement (allure 6'47"/km), FC moyenne 121 bpm (max. 133 bpm). Malgré des courbatures résiduelles après le fractionné du lundi et des douleurs pendant la première partie, le coureur rapporte un net regain d'aisance pour terminer. Cette amélioration à chaud ne certifie pas une récupération musculaire complète. [Fiche détaillée](../data/runs/2026/2026-10-21-long.md).
 
-**Suivi au 23 octobre :** le coureur confirme avoir effectué **sa séance de renforcement ce vendredi soir**. Il conserve les **30 minutes d'EF pour samedi 24 octobre**. La durée effective du renforcement, la sélection précise d'exercices, les séries, les répétitions et le ressenti ne sont pas fournis : ne pas assimiler cette déclaration à la validation de l'intégralité des prescriptions ci-dessous. [Fiche d'activité](../data/strength/2026/2026-10-23-strength.md).
+**Suivi au 23 octobre (historique) :** le coureur confirme avoir effectué **sa séance de renforcement ce vendredi soir**. Il conserve les **30 minutes d'EF pour samedi 24 octobre**. La durée effective du renforcement, la sélection précise d'exercices, les séries, les répétitions et le ressenti ne sont pas fournis : ne pas assimiler cette déclaration à la validation de l'intégralité des prescriptions ci-dessous. [Fiche d'activité](../data/strength/2026/2026-10-23-strength.md).
+
+**Suivi au 25 octobre :** la séance d'EF courte est réalisée le dimanche midi : **4,90 km en 31'15" de déplacement** (6'22"/km), 31'39" écoulées, **FC moyenne 129 bpm**, maximum 143 bpm, malgré une mauvaise nuit, de la fatigue et des courbatures après le renforcement du vendredi et une longue journée de marche le samedi. La course a été ressentie comme bénéfique. [Fiche de sortie](../data/runs/2026/2026-10-25-easy.md). Une **séance de haut du corps** a été effectuée après le footing, avec satisfaction rapportée, sans détails quantifiés ; [fiche de renforcement](../data/strength/2026/2026-10-25-upper-body.md). **Semaine 1 terminée** (3 courses, 1 renforcement Campus Coach déclaré, 1 haut du corps complémentaire).
 
 **Renforcement S1** (ordre présenté ; circuit à répéter **3 fois**) :
 1. Reverse step up — **8 répétitions**, effort modéré.
