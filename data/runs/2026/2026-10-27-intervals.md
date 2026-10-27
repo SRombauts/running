@@ -54,11 +54,11 @@ Ces durées et allures sont **prescrites**, non des relevés détaillés des fra
 
 ## Contexte et ressenti déclaré
 
-- **Le mardi matin**, météo ressentie comme douce ; le coureur disposait de temps mais **ne se sentait pas correctement reposé**.
+- **Placement volontaire de la séance la plus difficile en début de semaine** : lundi jugé trop proche du footing du dimanche 25 octobre ; séance déplacée au mardi matin. Météo ressentie comme douce et disponibilité suffisante, malgré une récupération jugée imparfaite.
 - Séance jugée **extrêmement difficile physiquement**.
 - Il signale ne pas disposer de **retour d'allure instantanée suffisamment utilisable** pour réguler ses fractions : il part **trop vite**, s'épuise et estime que cela dégrade la qualité de la séance.
 - **Après l'effort :** satisfaction marquée malgré la difficulté ; le programme Campus Coach lui a donné l'impulsion de faire un effort qu'il n'aurait pas spontanément entrepris seul.
-- Aucune douleur articulaire spécifique ni état de récupération après la séance n'ont été précisés pour cette activité.
+- **État après la séance, précisé ensuite le 27 octobre :** fortes courbatures aux cuisses ; douleur dans la fesse droite et la cuisse droite, évaluée à **2/10** ; **absence de douleur aux genoux rapportée**. Le caractère exact (musculaire, tendineux ou autre) et l'évolution de la douleur ne sont pas connus.
 
 ## Interprétation et point à travailler
 
