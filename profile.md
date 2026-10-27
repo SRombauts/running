@@ -186,6 +186,12 @@ avec une seule sortie de 15 minutes, puis reprise.
   - Préparation initiale Campus Coach sur cinq semaines à partir du 19 octobre : [plan détaillé](plans/2026-10-19-campus-coach-5km-novembrun.md).
   - Estimation initiale Campus Coach : 23'30" (prédiction à réévaluer selon les entraînements, **pas un chrono acquis**).
 
+- **29 novembre 2026 — Cross du Figaro 5 km (Saint-Cloud), départ à 11 h 30**
+  - **Inscription envisagée, non encore confirmée** (au 27 octobre 2026).
+  - Course conviviale en groupe avec deux proches, dont une partenaire de la Memorun de septembre.
+  - Objectif : courir à allure tranquille, majoritairement en endurance fondamentale et en aisance respiratoire, sans objectif chronométrique.
+  - Accélération finale envisagée uniquement si les sensations et la récupération après la Novemb’Run du 22 novembre le permettent.
+
 - **7 février 2027 — 10 km des Champs-Élysées (Paris)**
   - Inscription confirmée, catégorie non licencié.
   - Premier 10 km en compétition.
