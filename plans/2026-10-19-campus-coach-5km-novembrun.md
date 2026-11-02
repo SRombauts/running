@@ -110,7 +110,9 @@ Le [programme maison Full Body antérieur](2026-10-13-renforcement-musculaire-de
 | 1. Endurance fondamentale | **40 min**, **5,94 km estimés**, en EF |
 | 2. S60 + allure 5 km | **1 h**, **9,44 km estimés** : 20 min EF ; **3 × (4 min à 5'02"/km + 1 min 30 s lent)** ; 2 min lent ; **2 × (4 min à 4'41"/km + 2 min lent)** ; 10 min EF. La somme théorique est légèrement supérieure à 60 min selon la prise en compte des récupérations finales |
 | 3. Renforcement (séance clé) | **15 min** — circuit de **5 exercices**, **4 séries** affichées ; le descriptif général de l’application indique « 7 exercices » par erreur |
-| 4. Sortie longue & active | **1 h 10**, **10,32 km estimés** : 35 min EF ; **3 × (3 min à 6'17"/km + 1 min lent + 3 min à 5'56"/km + 1 min lent)** ; 3 min à 6'17"/km ; 8 min EF. Bloc actif décrit comme facultatif selon l'état de fatigue |
+| 4. Sortie longue & active (**réalisée le 2 novembre, en première séance**) | **1 h 10**, **10,32 km estimés** : 35 min EF ; **3 × (3 min à 6'17"/km + 1 min lent + 3 min à 5'56"/km + 1 min lent)** ; 3 min à 6'17"/km ; 8 min EF. Bloc actif décrit comme facultatif selon l'état de fatigue |
+
+**Suivi du 2 novembre :** sortie longue du programme effectuée **en première séance de la semaine 3**, principalement en EF. Quelques passages d'environ **3 minutes à allure aérobie** ont été réalisés, mais le relief a empêché de suivre un fractionnement réellement structuré. **Jambes un peu lourdes** rapportées. Durée, distance, fréquence cardiaque et nombre exact de passages non communiqués ; ne pas les déduire des prévisions Campus Coach. [Fiche de sortie](../data/runs/2026/2026-11-02-long-active.md).
 
 **Renforcement S3**, liste complète des **5 exercices** (confirmée par le coureur) :
 - Flexion de genou **12 répétitions**, effort intense.
