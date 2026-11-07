@@ -150,6 +150,12 @@ Utiliser **198 bpm pour les réglages provisoires des applications**.
   environ 40–45 minutes.
 - Plus longue sortie récente : 60 minutes.
 
+**Organisation envisagée au 7 novembre 2026 (non encore stabilisée)** :
+- Répartir trois séances entre **mercredi, vendredi et dimanche**, pour éviter de devoir concentrer les entraînements sur deux jours disponibles seulement.
+- **Mercredi** : créneau possible de **30–40 min à midi**, ou **60 min et davantage le matin**.
+- **Dimanche** : créneau privilégié pour la séance la plus exigeante, avec deux journées sans course ensuite ; répartition à adapter à la fatigue réelle.
+- Pour les **10 km de février et mars 2027**, le plan Campus Coach est appelé à évoluer : prévoir une **sortie longue progressivement plus longue**, susceptible de faire reconsidérer le placement hebdomadaire de la sortie longue et du fractionné. Ne pas figer les jours/intensités avant de connaître les prochains cycles.
+
 Coupure de 3,5 semaines durant l'été 2026,
 avec une seule sortie de 15 minutes, puis reprise.
 
