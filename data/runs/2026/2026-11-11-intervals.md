@@ -75,6 +75,7 @@ Les deux captures complémentaires identifient précisément les tours Strava su
 - Il tenait à effectuer cette **dernière séance de fractionnés avant la course du 22 novembre**, malgré la fatigue accumulée.
 - La séance a été vécue comme **très dure**, contrairement à la séance du [8 novembre](2026-11-08-intervals.md), qualifiée de « confortablement difficile ».
 - Le choix de ralentir les cibles d'environ 10 s/km était **délibéré**, en réaction à la difficulté ressentie ; les tours révèlent finalement un ralentissement réel de **17–22 s/km sur S60**, mais seulement **4 s/km sur le bloc final à allure 5 km**.
+- **Précision de ressenti sur le bloc final (communiquée ensuite par le coureur)** : à 4'45"/km, il se sentait **assez proche de sa limite de vitesse soutenable du moment** et pensait pouvoir accélérer seulement légèrement. En revanche, **il estimait pouvoir prolonger l'effort de quelques minutes**, sans pouvoir déterminer si c'était 2, 4 ou 6 minutes : effort « dur mais tenable ». Ceci est une estimation subjective, non une durée supplémentaire effectuée, et ne valide pas le maintien de 4'42"–4'45"/km sur 5 km.
 - **Décision annoncée pour la suite de l'affûtage** : se limiter désormais à des footings en endurance fondamentale de **30–40 minutes**, avec quelques lignes droites à allure 5 km. Il s'agit de l'intention du coureur, pas de séances déjà réalisées.
 - L'état de douleur ou les courbatures après cette séance ne sont pas documentés ; ne pas supposer leur absence.
 
