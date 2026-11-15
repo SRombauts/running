@@ -201,7 +201,9 @@ avec une seule sortie de 15 minutes, puis reprise.
 - **19 décembre 2026 — Viens battre ton RP (bois de Vincennes, Paris)**
   - **Inscription confirmée le 15 novembre 2026**.
   - Départ souhaité entre **10 h et 11 h**, horaire exact non confirmé.
-  - Distance et objectif chronométrique non précisés à ce stade.
+  - **Distance : 5 km**, parcours officiel des Championnats de France sur l'anneau Raymond-Poulidor (source : FFA, annonce du 4 novembre 2026).
+  - Épreuve gratuite, chronométrée par puce, avec départ libre entre 9 h et 12 h.
+  - Objectif chronométrique personnel non précisé à ce stade.
 
 - **7 février 2027 — 10 km des Champs-Élysées (Paris)**
   - Inscription confirmée, catégorie non licencié.
