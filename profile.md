@@ -202,6 +202,8 @@ avec une seule sortie de 15 minutes, puis reprise.
   - **Inscription confirmée le 15 novembre 2026**.
   - Départ souhaité entre **10 h et 11 h**, horaire exact non confirmé.
   - **Distance : 5 km**, parcours officiel des Championnats de France sur l'anneau Raymond-Poulidor (source : FFA, annonce du 4 novembre 2026).
+  - **Rendez-vous / retrait du dossard : chapiteau, Plaine des Jeux du Polygone, route de la Pyramide, 75012 Paris**, à proximité de l'anneau Raymond-Poulidor (source : [page officielle FFA](https://www.athle.fr/contenu/championnats-de-france-du-5-km-2027-paris/7183)).
+  - Accès conseillé : bus 112 ou 201, arrêt Plaine de la Faluère (~100 m) ; métro 1, Château de Vincennes (~1,5 km). Vérifier les éventuelles précisions envoyées par e-mail avant la course.
   - Épreuve gratuite, chronométrée par puce, avec départ libre entre 9 h et 12 h.
   - Objectif chronométrique personnel non précisé à ce stade.
 
