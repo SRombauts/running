@@ -1,6 +1,6 @@
 # Profil running
 
-Dernière mise à jour : 2026-10-21
+Dernière mise à jour : 2026-11-15
 
 ## Équipement
 
@@ -197,6 +197,11 @@ avec une seule sortie de 15 minutes, puis reprise.
   - Course conviviale en groupe avec deux proches, dont une partenaire de la Memorun de septembre.
   - Objectif : courir à allure tranquille, majoritairement en endurance fondamentale et en aisance respiratoire, sans objectif chronométrique.
   - Accélération finale envisagée uniquement si les sensations et la récupération après la Novemb’Run du 22 novembre le permettent.
+
+- **19 décembre 2026 — Viens battre ton RP (bois de Vincennes, Paris)**
+  - **Inscription confirmée le 15 novembre 2026**.
+  - Départ souhaité entre **10 h et 11 h**, horaire exact non confirmé.
+  - Distance et objectif chronométrique non précisés à ce stade.
 
 - **7 février 2027 — 10 km des Champs-Élysées (Paris)**
   - Inscription confirmée, catégorie non licencié.
