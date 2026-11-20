@@ -16,6 +16,15 @@ Dernière mise à jour : 2026-11-15
 - Suspensions légères envisagées comme pauses de détente, et non comme traitement d'un problème de dos.
 - Programme proposé : [renforcement musculaire à domicile](plans/2026-10-13-renforcement-musculaire-debutant.md).
 
+### Vêtements de course (déclarés le 20 novembre 2026)
+
+- Hauts actuellement disponibles : **T-shirt manches courtes destiné à porter le dossard**, **T-shirt technique manches longues léger** et **coupe-vent** (modèles non précisés).
+- Aucune caractéristique d'imperméabilité n'est confirmée pour le coupe-vent.
+- **Aucun achat de haut thermique chaud confirmé** à cette date.
+- Articles envisagés pour courir par temps froid, **sans achat confirmé** :
+  - [Collant chaud KIPRUN Run 500 Warm noir](https://www.decathlon.fr/p/collant-chaud-de-running-homme-kiprun-run-500-warm-noir/311837/c382m8928493).
+  - [T-shirt manches longues chaud KIPRUN Warm Day Visibility](https://www.decathlon.fr/p/t-shirt-running-visibilite-manches-longues-chaud-homme-warm-day-visibility/337704/c458m8733371) ; intérêt exprimé pour une variante **sombre**, sans référence/coloris exact vérifié.
+
 ### Chaussures de course
 
 - Modèle actuel : Kiprun Kipcore « Black and White ».
