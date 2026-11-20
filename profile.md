@@ -22,7 +22,7 @@ Dernière mise à jour : 2026-11-15
 - [T-shirt manches longues demi-zip chaud et respirant KIPRUN Run 100 noir](https://www.decathlon.fr/p/t-shirt-manches-longues-demi-zip-chaud-et-respirant-homme-kiprun-run-100-noir/357727/c382c71m8928494) : polyester, thermique et respirant, non imperméable ; demi-zip pour réguler la chaleur.
 - [Collant de running respirant KIPRUN Run 100 Dry noir](https://www.decathlon.fr/p/collant-de-running-respirant-homme-kiprun-run-100-dry-noir/346951/c382m8817448) : léger, respirant, non imperméable et non coupe-vent ; ne pas le confondre avec un collant chaud.
 - [Coupe-vent visibilité jour KIPRUN Run Core PPE jaune fluo](https://www.decathlon.fr/p/coupe-vent-visibilite-jour-homme-kiprun-run-core-ppe-jaune-fluo/381295/c458m9001526) : coupe-vent de running ; **imperméabilité ou déperlance non confirmées**.
-- T-shirt manches courtes prévu pour fixer le dossard de compétition ; référence et composition non précisées.
+- T-shirt officiel manches courtes de la Novemb’Run, en **matière technique** (confirmé par le coureur), utilisé avec le dossard ; composition précise non documentée.
 
 **Articles envisagés mais achat non confirmé** :
 - [Collant chaud KIPRUN Run 500 Warm noir](https://www.decathlon.fr/p/collant-chaud-de-running-homme-kiprun-run-500-warm-noir/311837/c382m8928493).
