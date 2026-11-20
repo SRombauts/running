@@ -16,18 +16,22 @@ Dernière mise à jour : 2026-11-15
 - Suspensions légères envisagées comme pauses de détente, et non comme traitement d'un problème de dos.
 - Programme proposé : [renforcement musculaire à domicile](plans/2026-10-13-renforcement-musculaire-debutant.md).
 
-### Vêtements de course (déclarés le 20 novembre 2026)
+### Vêtements de course (références précisées le 20 novembre 2026)
 
-- Hauts actuellement disponibles : **T-shirt manches courtes destiné à porter le dossard**, **T-shirt technique manches longues léger** et **coupe-vent** (modèles non précisés).
-- Aucune caractéristique d'imperméabilité n'est confirmée pour le coupe-vent.
-- **Aucun achat de haut thermique chaud confirmé** à cette date.
-- Articles envisagés pour courir par temps froid, **sans achat confirmé** :
-  - [Collant chaud KIPRUN Run 500 Warm noir](https://www.decathlon.fr/p/collant-chaud-de-running-homme-kiprun-run-500-warm-noir/311837/c382m8928493).
-  - [T-shirt manches longues chaud KIPRUN Warm Day Visibility](https://www.decathlon.fr/p/t-shirt-running-visibilite-manches-longues-chaud-homme-warm-day-visibility/337704/c458m8733371) ; intérêt exprimé pour une variante **sombre**, sans référence/coloris exact vérifié.
+**Matériel possédé (déclaré par le coureur)** :
+- [T-shirt manches longues demi-zip chaud et respirant KIPRUN Run 100 noir](https://www.decathlon.fr/p/t-shirt-manches-longues-demi-zip-chaud-et-respirant-homme-kiprun-run-100-noir/357727/c382c71m8928494) : polyester, thermique et respirant, non imperméable ; demi-zip pour réguler la chaleur.
+- [Collant de running respirant KIPRUN Run 100 Dry noir](https://www.decathlon.fr/p/collant-de-running-respirant-homme-kiprun-run-100-dry-noir/346951/c382m8817448) : léger, respirant, non imperméable et non coupe-vent ; ne pas le confondre avec un collant chaud.
+- [Coupe-vent visibilité jour KIPRUN Run Core PPE jaune fluo](https://www.decathlon.fr/p/coupe-vent-visibilite-jour-homme-kiprun-run-core-ppe-jaune-fluo/381295/c458m9001526) : coupe-vent de running ; **imperméabilité ou déperlance non confirmées**.
+- T-shirt manches courtes prévu pour fixer le dossard de compétition ; référence et composition non précisées.
+
+**Articles envisagés mais achat non confirmé** :
+- [Collant chaud KIPRUN Run 500 Warm noir](https://www.decathlon.fr/p/collant-chaud-de-running-homme-kiprun-run-500-warm-noir/311837/c382m8928493).
+- [T-shirt manches longues chaud KIPRUN Warm Day Visibility](https://www.decathlon.fr/p/t-shirt-running-visibilite-manches-longues-chaud-homme-warm-day-visibility/337704/c458m8733371) ; préférence exprimée pour une variante sombre, référence exacte non vérifiée.
 
 ### Chaussures de course
 
 - Modèle actuel : Kiprun Kipcore « Black and White ».
+- Chaussures jugées **très aérées** par le coureur (déclaration du 20 novembre 2026) ; pas de protection contre la pluie confirmée.
 - Pointure : 42 (pointure habituelle pour toutes les chaussures).
 - Achat : juillet 2026.
 - Poids mesuré personnellement : 281 g pour une chaussure en pointure 42.
