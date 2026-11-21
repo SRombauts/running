@@ -140,6 +140,35 @@ Le [programme maison Full Body antérieur](2026-10-13-renforcement-musculaire-de
 
 **Contenu non fourni** dans les captures partagées. Période de la semaine de compétition supposée d'après le calendrier de cinq semaines, mais **ne pas inventer une séance d'affûtage**. **Inscription à Novemb’Run confirmée**, programme de cette semaine encore inconnu.
 
+## Stratégie de course — Novemb’Run, 22 novembre 2026
+
+**Proposition du 21 novembre 2026** : objectif personnel confirmé **moins de 25 min** sur 5 km ; scénario de passage conseillé **24'45"**, soit **4'57"/km en moyenne**. C'est une cible, pas un résultat garanti.
+
+### Pourquoi ce choix ?
+
+- **Foulée Suresnoise (3 octobre, 26'00" officiels)** : le coureur juge son départ trop lent et sa longue accélération finale trop rapide. Repères GPS indicatifs : **5'33"/km au 1er km** et **4'39"/km au dernier** ; leurs temps ne totalisent pas exactement le chrono officiel. L'objectif est de mieux répartir l'effort, non de répéter un rattrapage tardif.
+- **Fractionnés du 11 novembre** : dernier bloc réellement couru à **4'45"/km pendant 8'09" (1,71 km)**, malgré une forte fatigue, avec une sensation proche de la limite soutenable du moment. Cela démontre une certaine réserve de vitesse, **sans prouver** la capacité à maintenir 4'45"/km sur 5 km.
+- Stratégie : **départ proche de 5'00"/km**, puis *negative split* léger. Ni départ trop conservateur à 5'30"/km, ni attaque à 4'40"/km.
+
+### Plan de passage cible
+
+| Km | Allure du kilomètre | Temps cumulé |
+|---|---:|---:|
+| 1 | **5'02"/km** | **5'02"** |
+| 2 | **5'00"/km** | **10'02"** |
+| 3 | **4'58"/km** | **15'00"** |
+| 4 | **4'55"/km** | **19'55"** |
+| 5 | **4'50"/km** | **24'45"** |
+
+**Exécution :** trouver une allure régulière sans sprint de départ ; passer les **3 km autour de 15'00"** en restant capable d'accélérer. Durcir progressivement au 4e km ; ne réserver l'éventuel sprint qu'aux **150–250 derniers mètres**. Utiliser de préférence les **panneaux kilométriques et les temps cumulés**, ou l'allure de tour lissée : l'allure GPS instantanée a déjà provoqué des erreurs de dosage aux entraînements. Les distances GPS et officielles peuvent diverger.
+
+### Échauffement et adaptations
+
+- Si les jambes sont normales : **10–15 min de footing facile**, mobilisations dynamiques et **3–4 accélérations progressives de 15–20 s** proches de l'allure de course, bien récupérées. Éviter de se refroidir entre échauffement et départ.
+- **Froid et pluie** : aléas possibles évoqués par le coureur, **pas une météo constatée ni une prévision vérifiée ici**. Le froid modéré ne nuit pas nécessairement à la performance ; pluie intense, vent, refroidissement avant le départ et adhérence peuvent changer l'effort et la motivation. Rester au sec/chaud jusqu'au dernier moment et adapter l'appui dans les virages humides.
+- **Si conditions difficiles ou fatigue persistante** : ne pas renoncer automatiquement au sub-25 avant le départ ; juger l'effort au premier km puis adapter l'allure selon le vent, le terrain et les sensations. Si l'effort est déjà incontrôlable avant la mi-course, privilégier une fin régulière plutôt que forcer l'objectif. En cas de douleur qui altère la foulée, ralentir ou arrêter.
+- Se référer au **chrono officiel** après la course : le plan au kilomètre est indicatif, pas une garantie de temps final.
+
 ## Points de vigilance pour le suivi
 
 - Le plan introduit simultanément **une séance de qualité par semaine**, **une séance de renforcement** (dont du travail excentrique sur genoux/mollets) et, en semaines 2 et 3, **une sortie longue avec bloc actif**. Il s'agit d'une proposition logicielle, **pas d'une charge déjà validée par la récupération**.
