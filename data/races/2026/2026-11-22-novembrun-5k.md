@@ -58,12 +58,13 @@ elevation_source: Strava
 - Comparaison des **temps officiels** : **26'00" à la Foulée Suresnoise (3 octobre)** → **22'47" à la Novemb’Run**, soit 3 min 13 s plus rapide. Cette comparaison ne valide pas la distance exacte de la seconde course.
 - Les portions Strava montrent une **accélération progressive** (negative split), cohérente avec la stratégie envisagée, tandis que la fréquence cardiaque augmente fortement en fin d'effort.
 - **Réserve majeure :** les 5 km annoncés et les 4,72 km du GPS diffèrent de 5,6 %. Causes possibles : parcours plus court qu'annoncé, distance GPS sous-estimée ou problème de tracé/enregistrement. Les durées Strava et officielles quasi identiques ne suffisent pas à départager ces hypothèses. Ne pas assimiler sans réserve 22'47" à un chrono certifié sur 5 000 m ni 4'33"/km à une allure effectivement mesurée.
+- **Projection conditionnelle à 5 km si les 4,72 km GPS reflètent la distance effectivement parcourue :** environ **24'09"** en prolongeant l'allure moyenne Strava, ou **24'03"** si les 280 m manquants étaient parcourus à l'allure de la dernière portion (4'30"/km). Référence indicative autour de **24'05"**, et non un temps officiel ou une preuve de distance courte. À 4'30"/km, 280 m demanderaient environ 1 min 16 s : le ressenti confirmé sur une minute supplémentaire ne garantit donc pas à lui seul ce scénario.
 
 ## Ressenti du coureur (déclaré après la course)
 
 - **Préparation :** forte fatigue accumulée au cours des dernières semaines ; entraînement ressenti comme trop exigeant, ayant conduit à **réduire la charge** avant la compétition (volume et durée de l'allègement non quantifiés).
 - **Départ :** volontairement conservateur par crainte de ne pas tenir l'effort jusqu'à l'arrivée.
-- **Arrivée :** impression d'avoir encore une marge et de pouvoir mieux répartir l'effort en osant accélérer plus tôt ; sentiment de progresser dans la connaissance de ses capacités.
+- **Arrivée (précision apportée ensuite) :** le coureur était encore en train d'accélérer et estime qu'il aurait pu continuer **au moins une minute supplémentaire à cette allure sans aucune difficulté**. Il ressentait une marge dans la gestion de l'effort et pense pouvoir mieux répartir sa course en accélérant plus tôt ; il apprend à connaître ses capacités.
 - **Lecture prudente :** l'accélération progressive des temps intermédiaires va dans ce sens, sans permettre de chiffrer le gain possible. La fatigue de préparation et l'incertitude sur la distance mesurée empêchent d'attribuer précisément le résultat à la stratégie de course.
 
 ## Provenance
