@@ -1,6 +1,6 @@
 # Profil running
 
-Dernière mise à jour : 2026-11-15
+Dernière mise à jour : 2026-11-22
 
 ## Équipement
 
@@ -141,7 +141,13 @@ Utiliser **198 bpm pour les réglages provisoires des applications**.
 - Environ 41 m D+ selon Strava.
 - Premier 5 km couru seul avec objectif de chrono.
 - Départ prudent par rapport au potentiel réel.
-- Record personnel de référence sur 5 km.
+- Record personnel de référence sur 5 km jusqu'à la Novemb’Run du 22 novembre 2026, dont la distance réelle reste à confirmer.
+
+22 novembre 2026 — Novemb’Run (épreuve annoncée de 5 km) :
+- Temps officiel à la puce : **22'47"** ; 95e au général, 2e/11 en Masters 2 hommes.
+- Strava : **4,72 km en 22'48"**, FC moyenne/maximale 172/196 bpm, 23 m D+.
+- **Distance du parcours non vérifiée** : écart de 280 m (5,6 %) entre les 5 km annoncés et le GPS ; impossible d'en attribuer la cause avec ces seules données.
+- Objectif personnel de moins de 25 min atteint sur le chronométrage officiel ; [fiche de course](data/races/2026/2026-11-22-novembrun-5k.md).
 
 ### Sortie longue de référence
 
@@ -198,12 +204,6 @@ avec une seule sortie de 15 minutes, puis reprise.
 - Détails : [plan Campus Coach 5 km](plans/2026-10-19-campus-coach-5km-novembrun.md), y compris la séance haut du corps adaptée. Le [programme antérieur Full Body](plans/2026-10-13-renforcement-musculaire-debutant.md) reste une référence d'exercices, **pas deux séances supplémentaires à cumuler**.
 
 ### Courses prévues
-
-- **22 novembre 2026 — 5 km Novemb’Run (Paris)**
-  - **Inscription confirmée le 18 octobre 2026**.
-  - Objectif : courir un 5 km chronométré sur un parcours annoncé roulant, pour obtenir un temps représentatif du niveau actuel et améliorer le record personnel de 26'00".
-  - Préparation initiale Campus Coach sur cinq semaines à partir du 19 octobre : [plan détaillé](plans/2026-10-19-campus-coach-5km-novembrun.md).
-  - Estimation initiale Campus Coach : 23'30" (prédiction à réévaluer selon les entraînements, **pas un chrono acquis**).
 
 - **29 novembre 2026 — Cross du Figaro 5 km (Saint-Cloud), départ à 11 h 30**
   - **Inscription envisagée, non encore confirmée** (au 27 octobre 2026).
