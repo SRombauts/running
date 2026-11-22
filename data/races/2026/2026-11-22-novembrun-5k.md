@@ -59,6 +59,13 @@ elevation_source: Strava
 - Les portions Strava montrent une **accélération progressive** (negative split), cohérente avec la stratégie envisagée, tandis que la fréquence cardiaque augmente fortement en fin d'effort.
 - **Réserve majeure :** les 5 km annoncés et les 4,72 km du GPS diffèrent de 5,6 %. Causes possibles : parcours plus court qu'annoncé, distance GPS sous-estimée ou problème de tracé/enregistrement. Les durées Strava et officielles quasi identiques ne suffisent pas à départager ces hypothèses. Ne pas assimiler sans réserve 22'47" à un chrono certifié sur 5 000 m ni 4'33"/km à une allure effectivement mesurée.
 
+## Ressenti du coureur (déclaré après la course)
+
+- **Préparation :** forte fatigue accumulée au cours des dernières semaines ; entraînement ressenti comme trop exigeant, ayant conduit à **réduire la charge** avant la compétition (volume et durée de l'allègement non quantifiés).
+- **Départ :** volontairement conservateur par crainte de ne pas tenir l'effort jusqu'à l'arrivée.
+- **Arrivée :** impression d'avoir encore une marge et de pouvoir mieux répartir l'effort en osant accélérer plus tôt ; sentiment de progresser dans la connaissance de ses capacités.
+- **Lecture prudente :** l'accélération progressive des temps intermédiaires va dans ce sens, sans permettre de chiffrer le gain possible. La fatigue de préparation et l'incertitude sur la distance mesurée empêchent d'attribuer précisément le résultat à la stratégie de course.
+
 ## Provenance
 
 Capture du résultat du chronométreur et captures des statistiques Strava partagées par le coureur le 22 novembre 2026. Le chrono à la puce et le classement sont issus de la première ; distance, métriques physiologiques et temps intermédiaires viennent de Strava. Aucun mesurage indépendant du parcours n'est disponible.
