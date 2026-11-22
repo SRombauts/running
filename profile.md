@@ -22,13 +22,15 @@ Dernière mise à jour : 2026-11-22
 - [T-shirt manches longues demi-zip chaud et respirant KIPRUN Run 100 noir](https://www.decathlon.fr/p/t-shirt-manches-longues-demi-zip-chaud-et-respirant-homme-kiprun-run-100-noir/357727/c382c71m8928494) : polyester, thermique et respirant, non imperméable ; demi-zip pour réguler la chaleur.
 - [Collant de running respirant KIPRUN Run 100 Dry noir](https://www.decathlon.fr/p/collant-de-running-respirant-homme-kiprun-run-100-dry-noir/346951/c382m8817448) : léger, respirant, non imperméable et non coupe-vent ; ne pas le confondre avec un collant chaud.
 - [Coupe-vent visibilité jour KIPRUN Run Core PPE jaune fluo](https://www.decathlon.fr/p/coupe-vent-visibilite-jour-homme-kiprun-run-core-ppe-jaune-fluo/381295/c458m9001526) : coupe-vent de running ; **imperméabilité ou déperlance non confirmées**.
-- **Collant chaud KIPRUN Run 900 Warm** : acheté le **22 novembre 2026**. Ne pas le confondre avec le Run 900 Rain envisagé avant l'achat.
-- **Veste chaude KIPRUN Run 900 Warm Regul beige** : achetée le **22 novembre 2026**.
+- **Collant KIPRUN Warm Rain 2 (gamme Run 900 Rain)** : acheté le **22 novembre 2026** chez Decathlon CNIT La Défense ; taille **S / W30 L33**, **49,99 €**. Libellé exact du ticket : `KIPRUN WARM RAIN 2 S / W30 L33` (réf. ticket 4365367). **Ce n'est pas le 900 Warm** ; modèle chaud avec zones déperlantes.
+- **Veste chaude KIPRUN Warm Regul beige** (présentée à l'achat comme **Run 900 Warm Regul**) : achetée le **22 novembre 2026**, taille **S**, **63,99 €**. Libellé exact du ticket : `VESTE FLOW H WARM REGUL BEIGE L02A S.` (réf. ticket 5875920). La mention « FLOW » sur le ticket est conservée pour éviter toute confusion entre modèles.
 - T-shirt officiel manches courtes de la Novemb’Run, en **matière technique** (confirmé par le coureur), utilisé avec le dossard ; composition précise non documentée.
 
 **Articles envisagés mais achat non confirmé** :
 - [Collant chaud KIPRUN Run 500 Warm noir](https://www.decathlon.fr/p/collant-chaud-de-running-homme-kiprun-run-500-warm-noir/311837/c382m8928493).
 - [T-shirt manches longues chaud KIPRUN Warm Day Visibility](https://www.decathlon.fr/p/t-shirt-running-visibilite-manches-longues-chaud-homme-warm-day-visibility/337704/c458m8733371) ; préférence exprimée pour une variante sombre, référence exacte non vérifiée.
+
+**Ticket Decathlon du 22 novembre 2026** : 3 articles pour **149,97 €** (Decathlon Paris CNIT La Défense), vérifiés dans l'e-ticket reçu par e-mail. L'identification des références et prix repose sur ce justificatif, et non sur les modèles envisagés avant achat.
 
 ### Chaussures de course
 
@@ -36,7 +38,7 @@ Dernière mise à jour : 2026-11-22
 - Chaussures jugées **très aérées** par le coureur (déclaration du 20 novembre 2026) ; pas de protection contre la pluie confirmée.
 - Pointure : 42 (pointure habituelle pour toutes les chaussures).
 - Achat de la paire utilisée en 2026 : juillet 2026.
-- **Paire de réserve pour 2027** : nouvelle paire du **même modèle Kiprun Kipcore « Black and White »**, achetée le **22 novembre 2026**, en promotion de fin de série. Paire non encore mise en service à la date d'achat.
+- **Paire de réserve pour 2027** : nouvelle paire de **KIPRUN Kipcore, coloris Dark Blue**, pointure **42**, achetée le **22 novembre 2026** en promotion de fin de série pour **35,99 €**. Libellé exact du ticket : `KIPCORE M DARK BLUE 42` (réf. ticket 5367744). Même famille de chaussures que la paire actuelle « Black and White », mais **coloris différent**. Paire non encore mise en service à la date d'achat.
 - Poids mesuré personnellement : 281 g pour une chaussure en pointure 42.
 - État au 9 octobre 2026 : encore en très bon état.
 - Pas encore essayé les pointures 42,5 ou 43 pour courir.
