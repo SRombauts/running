@@ -26,7 +26,7 @@ Dernière mise à jour : 2026-11-22
 - **Veste chaude KIPRUN Warm Regul beige** (présentée à l'achat comme **Run 900 Warm Regul**) : achetée le **22 novembre 2026**, taille **S**, **63,99 €**. Libellé exact du ticket : `VESTE FLOW H WARM REGUL BEIGE L02A S.` (réf. ticket 5875920). La mention « FLOW » sur le ticket est conservée pour éviter toute confusion entre modèles.
 - T-shirt officiel manches courtes de la Novemb’Run, en **matière technique** (confirmé par le coureur), utilisé avec le dossard ; composition précise non documentée.
 
-**Short à poches pour les séances : référence non confirmée.** Le ticket du 21 juillet 2026 mentionne un **short de randonnée Quechua NH500 Regular beige, taille 38**, **19,99 €**, réf. Decathlon **4290356** (4 poches, dont une zippée), mais rien ne confirme qu'il s'agit du short utilisé pour courir. Ne pas l'enregistrer comme matériel de running confirmé avant validation par le coureur.
+- **Short de running respirant KIPRUN Dry+ noir**, utilisé pour courir notamment grâce à ses poches (**modèle confirmé par le coureur**). Un email Decathlon du **15 octobre 2026** sollicitant un avis après achat mentionne explicitement `Short running respirant homme - dry+ noir`. Achat donc antérieur ou égal au 15 octobre ; **date exacte d'achat, taille, prix et référence article numérique non retrouvés**. Ne pas confondre avec un short Quechua NH500 de randonnée également présent sur un ticket de juillet.
 
 **Articles envisagés mais achat non confirmé** :
 - [Collant chaud KIPRUN Run 500 Warm noir](https://www.decathlon.fr/p/collant-chaud-de-running-homme-kiprun-run-500-warm-noir/311837/c382m8928493).
