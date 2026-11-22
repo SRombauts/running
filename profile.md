@@ -16,12 +16,14 @@ Dernière mise à jour : 2026-11-22
 - Suspensions légères envisagées comme pauses de détente, et non comme traitement d'un problème de dos.
 - Programme proposé : [renforcement musculaire à domicile](plans/2026-10-13-renforcement-musculaire-debutant.md).
 
-### Vêtements de course (références précisées le 20 novembre 2026)
+### Vêtements de course (références mises à jour le 22 novembre 2026)
 
 **Matériel possédé (déclaré par le coureur)** :
 - [T-shirt manches longues demi-zip chaud et respirant KIPRUN Run 100 noir](https://www.decathlon.fr/p/t-shirt-manches-longues-demi-zip-chaud-et-respirant-homme-kiprun-run-100-noir/357727/c382c71m8928494) : polyester, thermique et respirant, non imperméable ; demi-zip pour réguler la chaleur.
 - [Collant de running respirant KIPRUN Run 100 Dry noir](https://www.decathlon.fr/p/collant-de-running-respirant-homme-kiprun-run-100-dry-noir/346951/c382m8817448) : léger, respirant, non imperméable et non coupe-vent ; ne pas le confondre avec un collant chaud.
 - [Coupe-vent visibilité jour KIPRUN Run Core PPE jaune fluo](https://www.decathlon.fr/p/coupe-vent-visibilite-jour-homme-kiprun-run-core-ppe-jaune-fluo/381295/c458m9001526) : coupe-vent de running ; **imperméabilité ou déperlance non confirmées**.
+- **Collant chaud KIPRUN Run 900 Warm** : acheté le **22 novembre 2026**. Ne pas le confondre avec le Run 900 Rain envisagé avant l'achat.
+- **Veste chaude KIPRUN Run 900 Warm Regul beige** : achetée le **22 novembre 2026**.
 - T-shirt officiel manches courtes de la Novemb’Run, en **matière technique** (confirmé par le coureur), utilisé avec le dossard ; composition précise non documentée.
 
 **Articles envisagés mais achat non confirmé** :
@@ -33,7 +35,8 @@ Dernière mise à jour : 2026-11-22
 - Modèle actuel : Kiprun Kipcore « Black and White ».
 - Chaussures jugées **très aérées** par le coureur (déclaration du 20 novembre 2026) ; pas de protection contre la pluie confirmée.
 - Pointure : 42 (pointure habituelle pour toutes les chaussures).
-- Achat : juillet 2026.
+- Achat de la paire utilisée en 2026 : juillet 2026.
+- **Paire de réserve pour 2027** : nouvelle paire du **même modèle Kiprun Kipcore « Black and White »**, achetée le **22 novembre 2026**, en promotion de fin de série. Paire non encore mise en service à la date d'achat.
 - Poids mesuré personnellement : 281 g pour une chaussure en pointure 42.
 - État au 9 octobre 2026 : encore en très bon état.
 - Pas encore essayé les pointures 42,5 ou 43 pour courir.
