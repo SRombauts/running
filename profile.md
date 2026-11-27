@@ -215,9 +215,9 @@ avec une seule sortie de 15 minutes, puis reprise.
 ### Courses prévues
 
 - **29 novembre 2026 — Cross du Figaro 5 km (Saint-Cloud), départ à 11 h 30**
-  - **Inscription envisagée, non encore confirmée** (au 27 octobre 2026).
+  - **Participation confirmée par le coureur le 27 novembre 2026**.
   - Course conviviale en groupe avec deux proches, dont une partenaire de la Memorun de septembre.
-  - Objectif : courir à allure tranquille, majoritairement en endurance fondamentale et en aisance respiratoire, sans objectif chronométrique.
+  - Objectif : courir à allure tranquille, majoritairement en endurance fondamentale et en aisance respiratoire, autour de **32–33 min sur 5 km (6'24"–6'36"/km)**, repère indicatif et non objectif de performance.
   - Accélération finale envisagée uniquement si les sensations et la récupération après la Novemb’Run du 22 novembre le permettent.
 
 - **19 décembre 2026 — Viens battre ton RP (bois de Vincennes, Paris)**
