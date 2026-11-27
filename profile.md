@@ -1,10 +1,11 @@
 # Profil running
 
-Dernière mise à jour : 2026-11-22
+Dernière mise à jour : 2026-11-27
 
 ## Équipement
 
-- Montre **Google Fitbit Inspire 3** avec mesure optique de la fréquence cardiaque au poignet.
+- Montre actuelle : **Garmin Venu 4, 41 mm, coloris noir Slate**, reçue le **27 novembre 2026** (déclaration du coureur).
+- Ancien bracelet : **Google Fitbit Inspire 3** avec mesure optique de la fréquence cardiaque au poignet ; conserver cette provenance pour les mesures historiques.
 - Ceinture thoracique cardio : **Garmin HRM 200**, utilisée notamment pour le test de 1 500 m du 16 octobre 2026.
 - **Règle de mesure confirmée par le coureur (21 octobre 2026) : lorsqu'une activité est enregistrée avec Strava, la fréquence cardiaque est toujours mesurée avec la ceinture Garmin HRM 200**, et non avec le capteur optique de la Fitbit. Pour les activités enregistrées avec Fitbit, conserver la provenance propre à leur fiche.
 
